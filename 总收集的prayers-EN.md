@@ -20,50 +20,32 @@ Connect your heart to these best prayers to thank God for His goodness and His m
 Powerful Prayer to Thank God for His Goodness
 God has been so lovely and merciful to you and you family at large. It will be so appreciating if you thank Him with these prayer for thanks giving.
 
-+ 1. 
-My soul blesses You, O God, whose goodness to Mankind is everlasting. You have indeed shower Your goodness and infinite mercy upon me today again. You alone deserve all the praises and is given all the glory. Praise and adoration to You Lord for the unmerited(无功而得的,不该得的; 不配的) favour and mercy kindness.
+* 1. My soul blesses You, O God, whose goodness to Mankind is everlasting. You have indeed shower Your goodness and infinite mercy upon me today again. You alone deserve all the praises and is given all the glory. Praise and adoration to You Lord for the unmerited(无功而得的,不该得的; 不配的) favour and mercy kindness.
+
+* 2. I am forever grateful for Your goodness and kindness throughout all my journeys today. Great is Your name in all the earth! There is no one that can be compared to You, O God. You are plenteous 丰富的 in mercy and gracious in goodness. Thank You so much everlasting Father for Your merciful kindness towards me. I love You, Lord.
+
++ 3. I give thanks to You, O God You who made the heavens and the earth. Your love unto me is so high and Your mercy unto me is so great. I can’t for a second think of how much Your goodness unto me is so enduring every day of my life. Am very thankful, O God. Blessed be Your Name.
+
++ 4. Great are You Lord and greatly to be praised. Your favours and mercy towards me is undoubtedly sure and true. Indeed You have bestowed on me the goodness of Your hands and the mercies of Your heart. Today was indeed an awesome day for me all without the goodness of Your hands. Thank You, Lord.
+
++ 5. Lord, You are good and You’ve done so much for me. Take all the glory and honour. The love You have for me is immeasurable. My day was beautifully blessed and favoured by You. Thank You so much everlasting Father.
+
++ 6. O Lord My Redeemer, I appreciate You for the redeeming of the evil days for me and making today a blessing for me. I am really happy I witnessed but all to Your grace and boundless love. Am grateful to You, God.
+
++ 7. Anytime I see the dawning of a new day, I say thank. During the transition of the day, I can’t but show my profound gratitude at the end of the day to You my Redeemer. You O God brought me into safety and gave me success all through. Thank You so much.
+
++ 8. There’s nothing left for me to say but THANK YOU, LORD. You carried me when there was no one and You continually show Your goodness and mercy to me, regardless of my sins and unfaithfulness. You are the only One true God. Thank You so much for today again. All praise to Your Name. Hallelujah.
 
 
++ 9. What shall I say unto the You O God for Your great favour and mercy towards me throughout today. Even a thousand tongues cannot be enough to say thank you. Thank You, my King and my Lord. I love You, Lord.
 
-+ 2. 
-I am forever grateful for Your goodness and kindness throughout all my journeys today. Great is Your name in all the earth! There is no one that can be compared to You, O God. You are plenteous 丰富的 in mercy and gracious in goodness. Thank You so much everlasting Father for Your merciful kindness towards me. I love You, Lord.
++ 10. The Lord of all the earth, if not for Your presence and support I wouldn’t have been alive today not to talk of achieving all I achieved today. I am so grateful to You Jehovah. All glory to Your Name in the highest.
 
-+ 3. 
-I give thanks to You, O God You who made the heavens and the earth. Your love unto me is so high and Your mercy unto me is so great. I can’t for a second think of how much Your goodness unto me is so enduring every day of my life. Am very thankful, O God. Blessed be Your Name.
-
-
-+ 4. 
-Great are You Lord and greatly to be praised. Your favours and mercy towards me is undoubtedly sure and true. Indeed You have bestowed on me the goodness of Your hands and the mercies of Your heart. Today was indeed an awesome day for me all without the goodness of Your hands. Thank You, Lord.
-
-+ 5. 
-Lord, You are good and You’ve done so much for me. Take all the glory and honour. The love You have for me is immeasurable. My day was beautifully blessed and favoured by You. Thank You so much everlasting Father.
-
-
-
-+ 6. 
-O Lord My Redeemer, I appreciate You for the redeeming of the evil days for me and making today a blessing for me. I am really happy I witnessed but all to Your grace and boundless love. Am grateful to You, God.
-
-+ 7. 
-Anytime I see the dawning of a new day, I say thank. During the transition of the day, I can’t but show my profound gratitude at the end of the day to You my Redeemer. You O God brought me into safety and gave me success all through. Thank You so much.
-
-+ 8. 
-There’s nothing left for me to say but THANK YOU, LORD. You carried me when there was no one and You continually show Your goodness and mercy to me, regardless of my sins and unfaithfulness. You are the only One true God. Thank You so much for today again. All praise to Your Name. Hallelujah.
-
-
-+ 9. 
-What shall I say unto the You O God for Your great favour and mercy towards me throughout today. Even a thousand tongues cannot be enough to say thank you. Thank You, my King and my Lord. I love You, Lord.
-
-+ 10. 
-The Lord of all the earth, if not for Your presence and support I wouldn’t have been alive today not to talk of achieving all I achieved today. I am so grateful to You Jehovah. All glory to Your Name in the highest.
-
-+ 11. 
-You alone are worthy to be praised and adored for all You have done, all You are doing and all You will yet do. Thank You so much for the success of another day today. My heart adores You, Lord. Thank You for life.
++ 11. You alone are worthy to be praised and adored for all You have done, all You are doing and all You will yet do. Thank You so much for the success of another day today. My heart adores You, Lord. Thank You for life.
 
 + 12. Hallelujah to You Lord God Almighty, glory and honour and strength to You Lord of Lords and King of kings. Today wouldn’t have been if not for Your mercy, grace and love. Thank You, Jesus.
 
 + 13. Praises to the King of all ages, the Father of Lights. Thanks and power to You O Lord, You are the God of all creation and no other. You made all things well and granted me a safe journey and a successful day. Blessed be the Name of the Lord. Hallelujah.
-
-
 
 + 14. If I can’t give praise, it simply means I am ungrateful. But no, it’s not just for the goodness of Your hands O God but for the gift of life and hope for Your Kingdom. I can’t even count the reasons why I must just give You all the praises. Thank You so much, Father. I love You.
 
@@ -71,16 +53,12 @@ You alone are worthy to be praised and adored for all You have done, all You are
 
 + 16. What shall I render unto the Lord for all He has done for, “a grateful heart and a mouth full of thanksgiving” this I bring unto You for all Your goodness and faithfulness over my life. All thanks to You, Jesus.
 
-
 + 17. I’ve come to thank You Lord for life, good health and all Your uncountable blessings to me. You are highly lifted up my Father. Receive all my thanks.
 
 Trending Today
 + 18. Today was truly a blessing and each hour was an undoubtedly by Your grace. Thank You so much, my Father. All praises to Your Name.
 
 + 19. After looking back at every passing second, all I could say is Thank You, Lord. It was only by Your love and mercy. Glory and power to You, O God. Thank You so much.
-
-
- 
 
 + 20. It’s a sure thing that man cannot live without the presence of God and all creation would be useless in the absence of the Creator. O God You are the One True God. Thank You for yesterday, today and forever. Am so grateful.
 
@@ -97,14 +75,11 @@ Trending Today
 
 + 26. To You, O God be all the glory great things You have done and greater things You will yet do. For the grace and favours of today, to You alone be all the praises. Thank You, God.
 
-
-
 + 27. We have come to show forth our hearty gratitude to You our Father and our God for all You have done even for the gift of another day successfully. Hallelujah to You.
 
 + 28. For Your love unbounded, Your mercy everlasting and Your grace immeasurable, I say THANK YOU JESUS. Today is made for me because of Your grace and mercy. Thank You so much, Lord God Almighty.
 
 + 29. Theirs is none like unto You O God for Your goodness is great and Your mercy is unquantifiable. You are the only reason why my family, my friends, and I are alive today even till the end of the day. To You, Lord be all the glory.
-
 
 + 30. What can I use to pay for all Your goodness and kindness, love and care, O King of kings? When the arrows of the day were shot, You guided me, and even now in the night, Your mercy is sure to keep me through. Thank You for today, my Father, blessed be Your Holy Name.
 
@@ -113,7 +88,6 @@ Trending Today
 + 32. There is none like unto you, for You alone o God are the Most -high and the God of glory. I was made today only by Your grace. No evil overcame me and no scheme of man outshined me. Thank You so much, my gracious Father. Hallelujah.
 
 + 33. O let the whole world praise You and the inhabitants of the earth give thanks unto the Lord for He is good and His mercy and goodness spans through eternity. My thanks to You can never be enough and equal to Your goodness, favours, and mercies for every day of my life. Thank You, Jesus.
-
 
 + 34. What more can I say than to say thank You God. You’ve done what no man can do. Your supplies of all my needs is indeed a miracle. Your protection is a sure one and so many uncountable blessings. Thank You so much, Lord.
 
