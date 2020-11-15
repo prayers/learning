@@ -2,4 +2,4 @@
 
 
 
-# [Holy Bible](bible_content.md)
+# [Holy Bible](bible/bible_content.md)
