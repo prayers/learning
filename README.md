@@ -1,9 +1,10 @@
 # learning
 收集、学习
-## 学习祷告
+## Learning to Pray
+### [学习祷告](学习祷告-经文.md)
 ### [中文祷告词（收集）](总收集的中文.md)
-
 ### [Collected Prayers EN](总收集的prayers-EN.md)
+### [祷告范例（程蒙恩牧师）](祷告范例-程蒙恩.md)
 
 ## 书籍阅读
 ### 加尔文传
