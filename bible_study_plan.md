@@ -104,7 +104,7 @@ This Bible reading schedule is thematic or connective in nature. The goal is to 
 #### stream 3
 + 智慧书
 ## A brief introduction to the Bible
- You will notice in the contents that the Bible is divided into two main sections: the Old Testament and the New Testament. The Old Testament has 39 books. The New Testament has 27 books.  
+You will notice in the contents that the Bible is divided into two main sections: the Old Testament and the New Testament. The Old Testament has 39 books. The New Testament has 27 books.  
 A “testament” is another word for covenant, an agreement established by God setting out the relationship between God and human beings.
 ### the Old Testament
 The contents of the books also vary. In the Old Testament there are books of history about the people that God called, government records, moral and religious law, poetry, songs, and wise sayings.
