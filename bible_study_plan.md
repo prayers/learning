@@ -138,6 +138,6 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
 
 ## Daily Bible Reading
 ### 20201116, Monday
-+ 雅各书
-+ 创世记
-+ 约伯记
++ 雅各书 1
++ 创世记 1
++ 约伯记 1,2
