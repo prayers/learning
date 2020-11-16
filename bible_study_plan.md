@@ -97,11 +97,11 @@ This Bible reading schedule is thematic or connective in nature. The goal is to 
 + 使徒行传
 + 四福音书
 + 启示录
-### stream 2
+#### stream 2
 + 律法书
 + 历史书
 + 先知书
-### stream 3
+#### stream 3
 + 智慧书
 ## A brief introduction to the Bible
  You will notice in the contents that the Bible is divided into two main sections: the Old Testament and the New Testament. The Old Testament has 39 books. The New Testament has 27 books.  
@@ -135,4 +135,9 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
 雅各书，彼得前（后）书，约翰壹、贰、三书，犹大书
 #### 预言书
 启示录
+
 ## Daily Bible Reading
+### 20201116, Monday
++ 雅各书
++ 创世记
++ 约伯记
