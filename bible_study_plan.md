@@ -220,7 +220,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
     <th>预言书</th>
 </tr>
 <tr>
-    <th>
+    <td>
         <table>
             <tr>
                 <th>符类福音</th>
@@ -231,9 +231,9 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
                 <td><ol><li>约翰福音</li></ol></td>
             </tr>
         </table>
-    </th>
-    <th><ol><li>使徒行传</li></ol></th>
-    <th>
+    </td>
+    <td><ol><li>使徒行传</li></ol></td>
+    <td>
         <table>
             <tr>
                 <th>保罗书信</th>
@@ -257,14 +257,14 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
                 </td>
             </tr>
         </table>
-    </th>
-    <th>启示录</th>
+    </td>
+    <td>启示录</td>
 </tr>
 <tr>
-    <th>4</th>
-    <th>1</th>
-    <th>21</th>
-    <th>1</th>
+    <td>4</td>
+    <td>1</td>
+    <td>21</td>
+    <td>1</td>
 </tr>
 </table>
 
