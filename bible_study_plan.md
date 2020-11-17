@@ -140,7 +140,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
 ### 2020年11月
 <table>
   <tr>
-    <th><span style="color:blue">   Monday  </span></th>
+    <th><span style="color:blue;background-color:white">   Monday  </span></th>
     <th><span style="color:blue">  Tuesday  </span></th>
     <th><span style="color:blue"> Wednesday </span></th>
     <th><span style="color:blue"> Thursday  </span></th>
