@@ -145,8 +145,8 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
     <th><span style="color:white"> Wednesday </span></th>
     <th><span style="color:white"> Thursday  </span></th>
     <th><span style="color:white">  Friday   </span></th>
-    <th><span style="color:red" > Saturday  </span></th>
-    <th><span style="color:red" >  Sunday   </span></th>
+    <th><span style="color:red"> Saturday  </span></th>
+    <th><span style="color:red">  Sunday   </span></th>
   </tr>
   <tr>
     <td></td>
@@ -270,3 +270,21 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
     <td></td>
   </tr>
 </table>
+
+<form>
+<input type="radio" name="sex" value="male">Male<br>
+<input type="radio" name="sex" value="female">Female
+</form>
+<form name="input" action="html_form_action.php" method="get">
+Username: <input type="text" name="user">
+<input type="submit" value="Submit">
+</form>
+<form>
+First name: <input type="text" name="firstname"><br>
+Last name: <input type="text" name="lastname">
+</form>
+<form>
+Password: <input type="password" name="pwd">
+</form>
+<button type="button" onclick="myFunction()">点我！</button>
+document.write("<p>这是一个段落。</p>");
