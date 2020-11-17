@@ -287,4 +287,3 @@ Last name: <input type="text" name="lastname">
 Password: <input type="password" name="pwd">
 </form>
 <button type="button" onclick="myFunction()">点我！</button>
-document.write("<p>这是一个段落。</p>");
