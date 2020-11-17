@@ -212,7 +212,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
 雅各书，彼得前（后）书，约翰壹、贰、三书，犹大书
 #### 预言书
 启示录
-<table width="1000" align="center">
+<table width="1000"  style="text-align:center">
 <tr>
     <th>福音书</th>
     <th>历史书</th>
