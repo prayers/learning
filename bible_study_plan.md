@@ -110,15 +110,92 @@ A “testament” is another word for covenant, an agreement established by God 
 The contents of the books also vary. In the Old Testament there are books of history about the people that God called, government records, moral and religious law, poetry, songs, and wise sayings.
 
 There were also books written by prophets. Prophets were men chosen by God to deliver his message. They asked people to live in ways pleasing to God. They also looked ahead to the coming of a servant and a king who would save his people. A special word used for this person was the “Messiah,” the one chosen to be king. The last Old Testament prophet wrote his book about 400 years before Jesus lived.
-#### the Pentateuch 摩西五经/律法书
-创世纪，出埃及记，利未记，民数记，申命记
-#### the Historical Books 历史书 十二卷
-约书亚记，士师记，路得记，撒母耳记上（下），列王记上（下），历代志上（下），以斯拉，尼希米记，以斯帖记
-#### the Poetic and Wisdom Books 诗歌书/智慧书 五卷
-约伯记，诗篇，箴言，传道书，雅歌
-#### the Prophets 先知书 十七卷 属预言书
-大先知书：以赛亚书，耶利米书，耶利米哀歌，以西结书，但以理书  
-小先知书：何西阿书，约珥书，阿摩司书，俄巴底亚书，约拿书，弥迦书，那鸿书，哈巴谷书，西番雅书，哈该书，撒迦利亚书，玛拉基书
+
+<table>
+    <tr>
+        <th>律法书/摩西五经</th>
+        <th>历史书</th>
+        <th>诗歌书/智慧书</th>
+        <th>先知书/预言书</th>
+    </tr>
+    <tr>
+        <td>
+        <ol>
+            <li>创世记</li>
+            <li>出埃及记</li>
+            <li>利未记</li>
+            <li>民数记</li>
+            <li>申命记</li>
+        </ol>
+        </td>
+        <td>
+        <ol>
+            <li>约书亚记</li>
+            <li>士师记</li>
+            <li>路得记</li>
+            <li>撒母耳记上</li>
+            <li>撒母耳记下</li>
+            <li>列王记上</li>
+            <li>列王记下</li>
+            <li>历代志上</li>
+            <li>历代志下</li>
+            <li>以斯拉</li>
+            <li>尼希米记</li>
+            <li>以斯帖记</li>
+        </ol>
+        </td>
+        <td>
+        <ol>
+            <li>约伯记</li>
+            <li>诗篇</li>
+            <li>箴言</li>
+            <li>传道书</li>
+            <li>雅歌</li>
+        </ol>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td>大先知书</td>
+                    <td>小先知书</td>
+                </tr>
+                <tr> 
+                    <td>       
+                    <ol>
+                        <li>以赛亚书</li>
+                        <li>耶利米书</li>
+                        <li>耶利米哀歌</li>
+                        <li>以西结书</li>
+                        <li>但以理书</li>
+                    </ol>
+                    </td>
+                    <td>
+                    <ol>
+                        <li>何西阿书</li>
+                        <li>约珥书</li>
+                        <li>阿摩司书</li>
+                        <li>俄巴底亚书</li>
+                        <li>约拿书</li>
+                        <li>弥迦书</li>
+                        <li>那鸿书</li>
+                        <li>哈巴谷书</li>
+                        <li>西番雅书</li>
+                        <li>哈该书</li>
+                        <li>撒迦利亚书</li>
+                        <li>玛拉基书</li>
+                    </ol>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <th>5卷</th>
+        <th>12卷</th>
+        <th>5卷</th>
+        <th>17卷</th>
+    </tr>
+</table>
 ### the New Testament
 The New Testament starts out with the Gospel – four books, Matthew, Mark, Luke, and John, named for the men who wrote them. Gospel means “good news.” The Gospel describes the life, death, and resurrection of Jesus Christ. Christ is the Greek word that means the “Messiah,” the servant king looked for by the prophets of the Old Testament.
 
@@ -135,6 +212,61 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
 雅各书，彼得前（后）书，约翰壹、贰、三书，犹大书
 #### 预言书
 启示录
+<table>
+<tr>
+    <th>福音书</th>
+    <th>历史书</th>
+    <th>使徒书信</th>
+    <th>预言书</th>
+</tr>
+<tr>
+    <th>
+        <table>
+            <tr>
+                <th>符类福音</th>
+                <th>独特福音</th>
+            </tr>
+            <tr>
+                <td><ol><li>马太福音</li><li>马可福音</li><li>路加福音</li></ol></td>
+                <td><ol><li>约翰福音</li></ol></td>
+            </tr>
+        </table>
+    </th>
+    <th><ol><li>使徒行传</li></ol></th>
+    <th>
+        <table>
+            <tr>
+                <th>保罗书信</th>
+                <th>其他书信</th>
+            </tr>
+            <tr>
+                <td>
+                    <table>
+                        <tr>
+                            <th>教会书信<th>
+                            <th>教牧书信<th>
+                        </tr>
+                        <tr>
+                            <td><ol><li>罗马书</li><li>哥林多前书</li><li>哥林多后书</li><li>加拉太书</li><li>以弗所书</li><li>腓立比书</li><li>歌罗西书</li><li>帖撒罗尼迦前书</li><li>帖撒罗尼迦后书</li><li>腓利门书</li><li>希伯来书</li></ol></td>
+                            <td><ol><li>提摩太前书</li><li>提摩太后书</li><li>提多书</li></ol></td>
+                        </tr>
+                    </table>
+                </td>
+                <td>
+                    <ol><li>雅各书</li><li>彼得前书</li><li>彼得后书</li><li>约翰一书</li><li>约翰二书</li><li>约翰三书</li><li>犹大书</li></ol>
+                </td>
+            </tr>
+        </table>
+    </th>
+    <th>启示录</th>
+</tr>
+<tr>
+    <th>4</th>
+    <th>1</th>
+    <th>21</th>
+    <th>1</th>
+</tr>
+</table>
 
 ## Daily Bible Reading
 ### 2020年11月
@@ -271,19 +403,3 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
   </tr>
 </table>
 
-<form>
-<input type="radio" name="sex" value="male">Male<br>
-<input type="radio" name="sex" value="female">Female
-</form>
-<form name="input" action="html_form_action.php" method="get">
-Username: <input type="text" name="user">
-<input type="submit" value="Submit">
-</form>
-<form>
-First name: <input type="text" name="firstname"><br>
-Last name: <input type="text" name="lastname">
-</form>
-<form>
-Password: <input type="password" name="pwd">
-</form>
-<button type="button" onclick="myFunction()">点我！</button>
