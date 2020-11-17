@@ -243,8 +243,8 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
                 <td>
                     <table>
                         <tr>
-                            <th>教会书信<th>
-                            <th>教牧书信<th>
+                            <th>教会书信</th>
+                            <th>教牧书信</th>
                         </tr>
                         <tr>
                             <td><ol><li>罗马书</li><li>哥林多前书</li><li>哥林多后书</li><li>加拉太书</li><li>以弗所书</li><li>腓立比书</li><li>歌罗西书</li><li>帖撒罗尼迦前书</li><li>帖撒罗尼迦后书</li><li>腓利门书</li><li>希伯来书</li></ol></td>
