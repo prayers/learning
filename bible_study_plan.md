@@ -137,15 +137,31 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
 启示录
 
 ## Daily Bible Reading
-### 20201116, Monday
-+ 雅各书 1
-+ 创世记 1
-+ 约伯记 1,2
-### 20201117, Tuesday
-- [x] 雅各书 2,3
-- [x] 创世记 2,3
-- [x] 约伯记 3
 ### 2020年11月
+    Monday    |   Tuesday   | Wednesday |  Thursday  |    Friday    |  Saturday  |    Sunday   
+ ------ | ------ | ------ | ------ | ------ | ------ | ------ 
+ | | | | | |1   
+ 2   | 3   | 4   | 5   | 6   | 7   | 8   
+ 9   | 10   | 11   | 12   | 13   | 14   | 15   
+ 16<br>雅各书 1 <br>创世记 1 <br>约伯记 1,2 | 17  <br>雅各书 2,3 <br>创世记 2,3 <br>约伯记 3 | 18  <br>雅各书   <br>创世记   <br>约伯记   | 19  <br>雅各书   <br>创世记   <br>约伯记      | 20  <br>雅各书   <br>创世记   <br>约伯记   | 21  <br>雅各书   <br>创世记   <br>约伯记   | 22  <br>雅各书   <br>创世记   <br>约伯记   
+ 23   <br>雅各书   <br>创世记   <br>约伯记   | 24  <br>雅各书   <br>创世记   <br>约伯记   | 25  <br>雅各书   <br>创世记   <br>约伯记   | 26  <br>雅各书   <br>创世记   <br>约伯记   | 27  <br>雅各书   <br>创世记   <br>约伯记   | 28  <br>雅各书   <br>创世记   <br>约伯记   | 29   <br>雅各书   <br>创世记   <br>约伯记   
+ 30  <br>雅各书   <br>创世记   <br>约伯记   |    |    |    |    |    |    
+### 2020年12月
+Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday 
+------ | ------ | ------ | ------ | ------ | ------ | ------ 
+30|1|2|3|4|5|6
+7|8|9|10|11|12|13
+14|15|16|17|18|19|20
+21|22|23|24|25|26|27
+28|29|30|31|1|2|3
+### 20xx年xx月
+Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday 
+------ | ------ | ------ | ------ | ------ | ------ | ------ 
+1|2|3|4|5|6|7
+1|2|3|4|5|6|7
+1|2|3|4|5|6|7
+1|2|3|4|5|6|7
+
 <table>
   <tr>
     <th>Monday</th>
@@ -211,24 +227,3 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
     <td></td>
   </tr>
 </table>
-
-
- Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday 
- ------ | ------ | ------ | ------ | ------ | ------ | ------ 
- | | | | | |1   
- 2   | 3   | 4   | 5   | 6   | 7   | 8   
- 9   | 10   | 11   | 12   | 13   | 14   | 15   
- 16<br>雅各书 1 <br>创世记 1 <br>约伯记 1,2 | 17  <br>雅各书 2,3 <br>创世记 2,3 <br>约伯记 3 | 18   | 19   | 20   | 21   | 22   
- 23   | 24   | 25   | 26   | 27   | 28   | 29   
- 30   |    |    |    |    |    |    
-
-
-+---------------+---------------+--------------------+
-| Fruit         | Price         | Advantages         |
-+===============+===============+====================+
-| Bananas       | first line\   | first line\        |
-|               | next line     | next line          |
-+---------------+---------------+--------------------+
-| Bananas       | first line\   | first line\        |
-|               | next line     | next line          |
-+---------------+---------------+--------------------+
