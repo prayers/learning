@@ -305,7 +305,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
 </table>
  
 ### 20xx年xx月
-<table>
+<table style="text-align:center">
   <tr>
     <th>Monday</th>
     <th>Tuesday</th>
