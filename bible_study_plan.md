@@ -215,7 +215,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
 
  Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday 
  ------ | ------ | ------ | ------ | ------ | ------ | ------ 
-  | | | | | | |1   
+ | | | | | |1   
  2   | 3   | 4   | 5   | 6   | 7   | 8   
  9   | 10   | 11   | 12   | 13   | 14   | 15   
  16<br>雅各书 1 <br>创世记 1 <br>约伯记 1,2 | 17  <br>雅各书 2,3 <br>创世记 2,3 <br>约伯记 3 | 18   | 19   | 20   | 21   | 22   
