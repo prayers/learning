@@ -141,3 +141,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
 + 雅各书 1
 + 创世记 1
 + 约伯记 1,2
+### 20201117, Tuesday
+- [x] 雅各书 2,3
+- [x] 创世记 2,3
+- [x] 约伯记 3
