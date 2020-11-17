@@ -103,6 +103,23 @@ This Bible reading schedule is thematic or connective in nature. The goal is to 
 + 先知书
 #### stream 3
 + 智慧书
+<table style="text-align:center">
+<tr>
+    <th>Stream 1</th>
+    <th>Stream 2</th>
+    <th>Stream 3</th>
+</tr>
+<tr>
+    <td><ol><li>普通书信</li><li>保罗书信</li><li>使徒行传</li><li>四福音书</li><li>启示录</li></ol></td>
+    <td><ol><li>律法书</li><li>历史书</li><li>先知书</li></ol></td>
+    <td><ol><li>智慧书</li></ol></td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+</table>
 ## A brief introduction to the Bible
 You will notice in the contents that the Bible is divided into two main sections: the Old Testament and the New Testament. The Old Testament has 39 books. The New Testament has 27 books.  
 A “testament” is another word for covenant, an agreement established by God setting out the relationship between God and human beings.
@@ -200,18 +217,7 @@ There were also books written by prophets. Prophets were men chosen by God to de
 The New Testament starts out with the Gospel – four books, Matthew, Mark, Luke, and John, named for the men who wrote them. Gospel means “good news.” The Gospel describes the life, death, and resurrection of Jesus Christ. Christ is the Greek word that means the “Messiah,” the servant king looked for by the prophets of the Old Testament.
 
 The next book in the New Testament, Acts, describes the acts of Jesus’ followers following Jesus’ return to heaven. The other New Testament books are all letters from Jesus’ followers to early Christian churches or other Christians. These letters help us understand the good news of Jesus Christ and how to apply it in our own lives.
-#### the Gospels 四福音书
-马太福音，马可福音，路加福音，约翰福音  
-符类福音   
-约翰福音一卷内容，特重主之神性，可称为独特福音Unique
-#### the Acts 历史书
-使徒行传
-#### the Epistles 保罗书信 十四卷
-罗马书，哥林多前（后）书，加拉太书，以弗所书，腓立比书，歌罗西书，帖撒罗尼迦前（后）书，提摩太前（后）书，提多书，腓利门书，希伯来书
-#### the Epistles 普通书信 七卷
-雅各书，彼得前（后）书，约翰壹、贰、三书，犹大书
-#### 预言书
-启示录
+
 <table width="1000"  style="text-align:center">
 <tr>
     <th>福音书</th>
