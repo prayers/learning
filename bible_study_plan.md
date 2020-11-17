@@ -91,18 +91,7 @@ This Bible reading schedule is thematic or connective in nature. The goal is to 
 4. 采用固定方式，以读经开始一天的工作
 5. WPS云文档分章word文件方式阅读，做笔记，中英双语，英文使用NKJV
 ### 读经顺序
-#### stream 1
-+ 普通书信
-+ 保罗书信
-+ 使徒行传
-+ 四福音书
-+ 启示录
-#### stream 2
-+ 律法书
-+ 历史书
-+ 先知书
-#### stream 3
-+ 智慧书
+
 <table style="text-align:center">
 <tr>
     <th>Stream 1</th>
@@ -120,6 +109,7 @@ This Bible reading schedule is thematic or connective in nature. The goal is to 
     <td></td>
 </tr>
 </table>
+
 ## A brief introduction to the Bible
 You will notice in the contents that the Bible is divided into two main sections: the Old Testament and the New Testament. The Old Testament has 39 books. The New Testament has 27 books.  
 A “testament” is another word for covenant, an agreement established by God setting out the relationship between God and human beings.
@@ -276,6 +266,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
 
 ## Daily Bible Reading
 ### 2020年11月
+
 <table>
   <tr>
     <th><span style="color:white">   Monday  </span></th>
