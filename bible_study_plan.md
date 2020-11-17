@@ -138,30 +138,73 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
 
 ## Daily Bible Reading
 ### 2020年11月
- Monday    |   Tuesday   | Wednesday |  Thursday  |    Friday    |  Saturday  |    Sunday 
- ------ | ------ | ------ | ------ | ------ | ------ | ------ 
-  |  |  |  |  | | 1   
- 2   | 3   | 4   | 5   | 6   | 7   | 8   
- 9   | 10   | 11   | 12   | 13   | 14   | 15   
- 16<br>雅各书 1 <br>创世记 1 <br>约伯记 1,2 | 17  <br>雅各书 2,3 <br>创世记 2,3 <br>约伯记 3 | 18  <br>雅各书   <br>创世记   <br>约伯记   | 19  <br>雅各书   <br>创世记   <br>约伯记      | 20  <br>雅各书   <br>创世记   <br>约伯记   | 21  <br>雅各书   <br>创世记   <br>约伯记   | 22  <br>雅各书   <br>创世记   <br>约伯记   
- 23   <br>雅各书   <br>创世记   <br>约伯记   | 24  <br>雅各书   <br>创世记   <br>约伯记   | 25  <br>雅各书   <br>创世记   <br>约伯记   | 26  <br>雅各书   <br>创世记   <br>约伯记   | 27  <br>雅各书   <br>创世记   <br>约伯记   | 28  <br>雅各书   <br>创世记   <br>约伯记   | 29   <br>雅各书   <br>创世记   <br>约伯记   
- 30  <br>雅各书   <br>创世记   <br>约伯记   |    |    |    |    |    |    
-### 2020年12月
-Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday 
------- | ------ | ------ | ------ | ------ | ------ | ------ 
-30|1|2|3|4|5|6
-7|8|9|10|11|12|13
-14|15|16|17|18|19|20
-21|22|23|24|25|26|27
-28|29|30|31|1|2|3
+<table>
+  <tr>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+    <th>Saturday</th>
+    <th>Sunday</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>3</td>
+    <td>4</td>
+    <td>5</td>
+    <td>6</td>
+    <td>7</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>10</td>
+    <td>11</td>
+    <td>12</td>
+    <td>13</td>
+    <td>14</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>16<br>雅各书 1      <br>创世记 1      <br>约伯记 1,2   </td>
+    <td>17<br>雅各书 2,3    <br>创世记 2,3    <br>约伯记 3     </td>
+    <td>18<br>雅各书        <br>创世记        <br>约伯记       </td>
+    <td>19<br>雅各书        <br>创世记        <br>约伯记       </td>
+    <td>20<br>雅各书        <br>创世记        <br>约伯记       </td>
+    <td>21<br>雅各书        <br>创世记        <br>约伯记       </td>
+    <td>22<br>雅各书        <br>创世记        <br>约伯记       </td>
+  </tr>
+  <tr>
+    <td>23<br>雅各书        <br>创世记        <br>约伯记       </td>
+    <td>24<br>雅各书        <br>创世记        <br>约伯记       </td>
+    <td>25<br>雅各书        <br>创世记        <br>约伯记       </td>
+    <td>26<br>雅各书        <br>创世记        <br>约伯记       </td>
+    <td>27<br>雅各书        <br>创世记        <br>约伯记       </td>
+    <td>28<br>雅各书        <br>创世记        <br>约伯记       </td>
+    <td>29<br>雅各书        <br>创世记        <br>约伯记       </td>
+  </tr>
+  <tr>
+    <td>30<br>雅各书        <br>创世记        <br>约伯记       </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+ 
 ### 20xx年xx月
-Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday 
------- | ------ | ------ | ------ | ------ | ------ | ------ 
-1|2|3|4|5|6|7
-1|2|3|4|5|6|7
-1|2|3|4|5|6|7
-1|2|3|4|5|6|7
-
 <table>
   <tr>
     <th>Monday</th>
