@@ -1,6 +1,6 @@
 # 祷告会
 ## 2020年11月
-<table style="text-align:center;width=1000">
+<table width="1000" style="text-align:center">
   <tr>
     <th>Monday</th>
     <th>Tuesday</th>
