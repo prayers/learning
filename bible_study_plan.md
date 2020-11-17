@@ -234,14 +234,14 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
     </td>
     <td><ol><li>使徒行传</li></ol></td>
     <td>
-        <table>
+        <table style="text-align:center">
             <tr>
                 <th>保罗书信</th>
                 <th>其他书信</th>
             </tr>
             <tr>
                 <td>
-                    <table>
+                    <table style="text-align:center">
                         <tr>
                             <th>教会书信</th>
                             <th>教牧书信</th>
