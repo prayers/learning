@@ -283,23 +283,23 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
   <tr>
     <td>16<br>雅各书 1      <br>创世记 1      <br>约伯记 1,2   </td>
     <td>17<br>雅各书 2,3    <br>创世记 2,3    <br>约伯记 3     </td>
-    <td>18<br>雅各书        <br>创世记        <br>约伯记       </td>
-    <td>19<br>雅各书        <br>创世记        <br>约伯记       </td>
-    <td>20<br>雅各书        <br>创世记        <br>约伯记       </td>
-    <td>21<br>雅各书        <br>创世记        <br>约伯记       </td>
-    <td>22<br>雅各书        <br>创世记        <br>约伯记       </td>
+    <td>18<br>雅各书 4,5    <br>创世记 4,5    <br>约伯记 4,5   </td>
+    <td>19<br>彼得前书      <br>创世记        <br>约伯记       </td>
+    <td>20<br>彼得前书      <br>创世记        <br>约伯记       </td>
+    <td>21<br>彼得前书      <br>创世记        <br>约伯记       </td>
+    <td>22<br>彼得前书      <br>创世记        <br>约伯记       </td>
   </tr>
   <tr>
-    <td>23<br>雅各书        <br>创世记        <br>约伯记       </td>
-    <td>24<br>雅各书        <br>创世记        <br>约伯记       </td>
-    <td>25<br>雅各书        <br>创世记        <br>约伯记       </td>
-    <td>26<br>雅各书        <br>创世记        <br>约伯记       </td>
-    <td>27<br>雅各书        <br>创世记        <br>约伯记       </td>
-    <td>28<br>雅各书        <br>创世记        <br>约伯记       </td>
-    <td>29<br>雅各书        <br>创世记        <br>约伯记       </td>
+    <td>23<br>****      <br>创世记        <br>约伯记       </td>
+    <td>24<br>****        <br>创世记        <br>约伯记       </td>
+    <td>25<br>****        <br>创世记        <br>约伯记       </td>
+    <td>26<br>****        <br>创世记        <br>约伯记       </td>
+    <td>27<br>****        <br>创世记        <br>约伯记       </td>
+    <td>28<br>****        <br>创世记        <br>约伯记       </td>
+    <td>29<br>****        <br>创世记        <br>约伯记       </td>
   </tr>
   <tr>
-    <td>30<br>雅各书        <br>创世记        <br>约伯记       </td>
+    <td>30<br>****        <br>创世记        <br>约伯记       </td>
     <td></td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>
   </tr>
 </table>
