@@ -267,13 +267,13 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
 ## Daily Bible Reading
 ### 2020年11月
 
-<table>
+<table width="1000" style="text-align:center">
   <tr>
-    <th><span style="color:white">   Monday  </span></th>
-    <th><span style="color:white">  Tuesday  </span></th>
-    <th><span style="color:white"> Wednesday </span></th>
-    <th><span style="color:white"> Thursday  </span></th>
-    <th><span style="color:white">  Friday   </span></th>
+    <th><span style="color:blue">   Monday  </span></th>
+    <th><span style="color:blue">  Tuesday  </span></th>
+    <th><span style="color:blue"> Wednesday </span></th>
+    <th><span style="color:blue"> Thursday  </span></th>
+    <th><span style="color:blue">  Friday   </span></th>
     <th><span style="color:red"> Saturday  </span></th>
     <th><span style="color:red">  Sunday   </span></th>
   </tr>
