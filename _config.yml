@@ -283,3 +283,4 @@ table tr:nth-child(2n) {
 img {
   max-width: 100%
 }
+theme: jekyll-theme-slate
