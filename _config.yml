@@ -24,7 +24,7 @@ body {
   color: #333;
   background-color: #fff;
   padding: 20px;
-  max-width: 960px;
+  max-width: 1260px;
   margin: 0 auto;
 }
 
@@ -139,7 +139,7 @@ dl dt {
   font-weight: bold;
   font-style: italic;
   padding: 0;
-  margin: 15px 0 5px;
+  margin: 5px 0 5px;
 }
 
 dl dt:first-child {
@@ -155,7 +155,7 @@ dl dt>:last-child {
 }
 
 dl dd {
-  margin: 0 0 15px;
+  margin: 0 0 5px;
   padding: 0 15px;
 }
 
