@@ -23,7 +23,7 @@
 
 <style>
     body {
-          background: #0000;
+          background: grey;
     }
     img {
             max-width: 50%;
