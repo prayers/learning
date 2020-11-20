@@ -22,8 +22,8 @@
 
 
 <style>
-    .container {
-            max-width: 1000px;
+    body {
+          background: #0000;
     }
     img {
             max-width: 50%;
