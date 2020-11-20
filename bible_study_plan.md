@@ -92,7 +92,7 @@ This Bible reading schedule is thematic or connective in nature. The goal is to 
 5. WPS云文档分章word文件方式阅读，做笔记，中英双语，英文使用NKJV
 ### 读经顺序
 
-<table style="text-align:center">
+<table border="3" style="text-align:center">
 <tr>
     <th>Stream 1</th>
     <th>Stream 2</th>
@@ -118,7 +118,7 @@ The contents of the books also vary. In the Old Testament there are books of his
 
 There were also books written by prophets. Prophets were men chosen by God to deliver his message. They asked people to live in ways pleasing to God. They also looked ahead to the coming of a servant and a king who would save his people. A special word used for this person was the “Messiah,” the one chosen to be king. The last Old Testament prophet wrote his book about 400 years before Jesus lived.
 
-<table>
+<table border="3" style="text-align:center">
     <tr>
         <th>律法书/摩西五经</th>
         <th>历史书</th>
@@ -208,7 +208,7 @@ The New Testament starts out with the Gospel – four books, Matthew, Mark, Luke
 
 The next book in the New Testament, Acts, describes the acts of Jesus’ followers following Jesus’ return to heaven. The other New Testament books are all letters from Jesus’ followers to early Christian churches or other Christians. These letters help us understand the good news of Jesus Christ and how to apply it in our own lives.
 
-<table width="1000"  style="text-align:center">
+<table border="3" width="1000"  style="text-align:center">
 <tr>
     <th>福音书</th>
     <th>历史书</th>
@@ -267,13 +267,13 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
 ## Daily Bible Reading
 ### 2020年11月
 
-<table border="5" width="1000" style="text-align:center">
+<table border="3" width="1000" style="text-align:center">
   <tr>
-    <th><span style="color:blue">   Monday  </span></th>
-    <th><span style="color:blue">  Tuesday  </span></th>
-    <th><span style="color:blue"> Wednesday </span></th>
-    <th><span style="color:blue"> Thursday  </span></th>
-    <th><span style="color:blue">  Friday   </span></th>
+    <th><span style="color:white">   Monday  </span></th>
+    <th><span style="color:white">  Tuesday  </span></th>
+    <th><span style="color:white"> Wednesday </span></th>
+    <th><span style="color:white"> Thursday  </span></th>
+    <th><span style="color:white">  Friday   </span></th>
     <th><span style="color:red"> Saturday  </span></th>
     <th><span style="color:red">  Sunday   </span></th>
   </tr>
@@ -305,7 +305,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
 </table>
  
 ### 20xx年xx月
-<table width="1000" style="text-align:center">
+<table border="3" width="1000" style="text-align:center">
   <tr>
     <th>Monday</th>
     <th>Tuesday</th>
