@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>23 <br>磐石晨祷 <br>《撒上》28章 <br>为万国万民祷告 <br> </td>
-    <td>24 <br> <br> <br> <br> </td>
+    <td>24 <br>磐石晨祷 <br>《撒上》29章 <br> <br> </td>
     <td>25 <br> <br> <br> <br> </td>
     <td>26 <br> <br> <br> <br> </td>
     <td>27 <br> <br> <br> <br> </td>
