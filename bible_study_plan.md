@@ -292,8 +292,8 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
   <tr>
     <td>23<br>约翰一书 1-3 <br>创世记  15-16<br>约伯记 15-17     </td>
     <td>24<br>约翰一书 4,5 <br>创世记   17   <br>约伯记 18  </td>
-    <td>25<br>约翰二书三书<br>创世记        <br>约伯记 19-24</td>
-    <td>26<br>****        <br>创世记        <br>约伯记       </td>
+    <td>25<br>约翰二书三书<br>创世记  18-19      <br>约伯记 19-24</td>
+    <td>26<br>犹大书  <br>创世记 20-23<br>约伯记 25-27</td>
     <td>27<br>****        <br>创世记        <br>约伯记       </td>
     <td>28<br>****        <br>创世记        <br>约伯记       </td>
     <td>29<br>****        <br>创世记        <br>约伯记       </td>
