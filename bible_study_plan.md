@@ -380,6 +380,9 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
 </table>
 
 <style>
+    body {
+    	background-color:#b0c4de;
+    }
     table {
         border:3;
         width:1000;
