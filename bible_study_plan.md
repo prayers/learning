@@ -381,6 +381,10 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
 
 <style>
     td {
+        text-align: left;
+        vertical-align: top;
+    }
+    th {
         text-align: center;
         vertical-align: top;
     }
