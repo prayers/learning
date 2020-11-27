@@ -92,7 +92,7 @@ This Bible reading schedule is thematic or connective in nature. The goal is to 
 5. WPS云文档分章word文件方式阅读，做笔记，中英双语，英文使用NKJV
 ### 读经顺序
 
-<table border="3" align="center" style="text-align:center">
+<table>
 <tr>
     <th>Stream 1</th>
     <th>Stream 2</th>
@@ -118,7 +118,7 @@ The contents of the books also vary. In the Old Testament there are books of his
 
 There were also books written by prophets. Prophets were men chosen by God to deliver his message. They asked people to live in ways pleasing to God. They also looked ahead to the coming of a servant and a king who would save his people. A special word used for this person was the “Messiah,” the one chosen to be king. The last Old Testament prophet wrote his book about 400 years before Jesus lived.
 
-<table border="3" align="center"  style="text-align:center">
+<table>
     <tr>
         <th>律法书/摩西五经</th>
         <th>历史书</th>
@@ -163,8 +163,8 @@ There were also books written by prophets. Prophets were men chosen by God to de
         <td>
             <table>
                 <tr>
-                    <th>大先知书</td>
-                    <th>小先知书</td>
+                    <th>大先知书</th>
+                    <th>小先知书</th>
                 </tr>
                 <tr> 
                     <td>       
@@ -208,7 +208,7 @@ The New Testament starts out with the Gospel – four books, Matthew, Mark, Luke
 
 The next book in the New Testament, Acts, describes the acts of Jesus’ followers following Jesus’ return to heaven. The other New Testament books are all letters from Jesus’ followers to early Christian churches or other Christians. These letters help us understand the good news of Jesus Christ and how to apply it in our own lives.
 
-<table border="3" width="1000"  style="text-align:center">
+<table>
 <tr>
     <th>福音书</th>
     <th>历史书</th>
@@ -257,10 +257,10 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
     <td>启示录</td>
 </tr>
 <tr>
-    <td>4</td>
-    <td>1</td>
-    <td>21</td>
-    <td>1</td>
+    <th>4</th>
+    <th>1</th>
+    <th>21</th>
+    <th>1</th>
 </tr>
 </table>
 
@@ -275,7 +275,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
 ## Daily Bible Reading
 ### 2020年11月
 
-<table border="3" align="center"  width="1000" style="text-align:center">
+<table>
   <tr>
     <th><span style="color:white">   Monday  </span></th>
     <th><span style="color:white">  Tuesday  </span></th>
@@ -313,7 +313,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
 </table>
  
 ### 20xx年xx月
-<table border="3"  align="center" width="1000" style="text-align:center">
+<table >
   <tr>
     <th>Monday</th>
     <th>Tuesday</th>
@@ -380,6 +380,12 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
 </table>
 
 <style>
+    table {
+        border:3;
+        width:1000;
+        border-collapse: collapse;
+        padding：2;
+    }
     td {
         text-align: left;
         vertical-align: top;
