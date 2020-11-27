@@ -163,8 +163,8 @@ There were also books written by prophets. Prophets were men chosen by God to de
         <td>
             <table>
                 <tr>
-                    <td>大先知书</td>
-                    <td>小先知书</td>
+                    <th>大先知书</td>
+                    <th>小先知书</td>
                 </tr>
                 <tr> 
                     <td>       
