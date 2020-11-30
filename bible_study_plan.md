@@ -1,4 +1,5 @@
 # Bible Study Plan
+
 The Bible is an amazing book; we can’t study it enough. Keep studying, learning, and growing. We turn to the Bible to learn, and then we also turn to the Bible in difficult times for comfort and consolation. “When the world beats you down, open up your Bible,” said Lysa TerKeurst.
 
 Turning a Bible study into a habit means it will actually happen. We really only need 3 things for a solid Bible study:
@@ -272,9 +273,10 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
 + C、属于末日教义性质者——帖撒罗尼迦前后书，为保罗第二次外出传道时写的，预言基督二次荣耀降临，再来之道。
 + D、属于信徒灵性者——以弗所书，腓力比书，歌罗西书，腓利门书，为保罗在罗马监狱所写，论在主里的丰满，又称为监狱书信。
 + E、属于教牧学性质者——提摩太前后书，提多书，腓利门书，为保罗被释放以后及二次坐监时所为，论到教会行政之道，称为教牧书信。
-## Daily Bible Reading
 
-### 2020年12月
+# Daily Bible Reading
+
+## 2020年12月
 <table>
   <tr>
     <th>Monday</th>
@@ -332,7 +334,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
   </tr>
 </table>
 
-### 2020年11月
+## 2020年11月
 <table>
   <tr>
     <th><span style="color:white">   Monday  </span></th>
@@ -370,7 +372,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
   </tr>
 </table>
  
-### 20xx年xx月
+## 20xx年xx月
 <table >
   <tr>
     <th>Monday</th>
