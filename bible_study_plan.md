@@ -273,8 +273,66 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
 + D、属于信徒灵性者——以弗所书，腓力比书，歌罗西书，腓利门书，为保罗在罗马监狱所写，论在主里的丰满，又称为监狱书信。
 + E、属于教牧学性质者——提摩太前后书，提多书，腓利门书，为保罗被释放以后及二次坐监时所为，论到教会行政之道，称为教牧书信。
 ## Daily Bible Reading
-### 2020年11月
 
+### 2020年12月
+<table>
+  <tr>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+    <th>Saturday</th>
+    <th>Sunday</th>
+  </tr>
+  <tr>
+    <td> <br> <br> <br> <br> </td>
+    <td>1 <br> <br> <br> <br> </td>
+    <td>2 <br> <br> <br> <br> </td>
+    <td>3 <br> <br> <br> <br> </td>
+    <td>4 <br> <br> <br> <br> </td>
+    <td>5 <br> <br> <br> <br> </td>
+    <td>6 <br> <br> <br> <br> </td>
+  </tr>
+  <tr>
+    <td>7 <br> <br> <br> <br> </td>
+    <td>8 <br> <br> <br> <br> </td>
+    <td>9 <br> <br> <br> <br> </td>
+    <td>10 <br> <br> <br> <br> </td>
+    <td>11 <br> <br> <br> <br> </td>
+    <td>12 <br> <br> <br> <br> </td>
+    <td>13 <br> <br> <br> <br> </td>
+  </tr>
+  <tr>
+    <td>14 <br> <br> <br> <br> </td>
+    <td>15 <br> <br> <br> <br> </td>
+    <td>16 <br> <br> <br> <br> </td>
+    <td>17 <br> <br> <br> <br> </td>
+    <td>18 <br> <br> <br> <br> </td>
+    <td>19 <br> <br> <br> <br> </td>
+    <td>20 <br> <br> <br> <br> </td>
+  </tr>
+  <tr>
+    <td>21 <br> <br> <br> <br> </td>
+    <td>22 <br> <br> <br> <br> </td>
+    <td>23 <br> <br> <br> <br> </td>
+    <td>24 <br> <br> <br> <br> </td>
+    <td>25 <br> <br> <br> <br> </td>
+    <td>26 <br> <br> <br> <br> </td>
+    <td>27 <br> <br> <br> <br> </td>
+  </tr>
+  <tr>
+    <td>28 <br> <br> <br> <br> </td>
+    <td>29 <br> <br> <br> <br> </td>
+    <td>30 <br> <br> <br> <br> </td>
+    <td>31 <br> <br> <br> <br> </td>
+    <td> <br> <br> <br> <br> </td>
+    <td> <br> <br> <br> <br> </td>
+    <td> <br> <br> <br> <br> </td>
+  </tr>
+</table>
+
+### 2020年11月
 <table>
   <tr>
     <th><span style="color:white">   Monday  </span></th>
@@ -303,8 +361,8 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
     <td>25<br>约翰二书三书<br>创世记  18-19      <br>约伯记 19-24</td>
     <td>26<br>犹大书  <br>创世记 20-23<br>约伯记 25-27</td>
     <td>27<br>罗马书 1<br>创世记  24<br>约伯记 28</td>
-    <td>28<br>****        <br>创世记        <br>约伯记       </td>
-    <td>29<br>****        <br>创世记        <br>约伯记       </td>
+    <td>28<br>         <br>  <br> </td>
+    <td>29<br>         <br>         <br>   </td>
   </tr>
   <tr>
     <td>30<br>****        <br>创世记        <br>约伯记       </td>

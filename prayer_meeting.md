@@ -1,6 +1,7 @@
 # 祷告会
+
 ## 2020年12月
-<table width="1200" style="text-align:center">
+<table>
   <tr>
     <th>Monday</th>
     <th>Tuesday</th>
@@ -50,12 +51,13 @@
     <td>28 <br> <br> <br> <br> </td>
     <td>29 <br> <br> <br> <br> </td>
     <td>30 <br> <br> <br> <br> </td>
-    <td>21 <br> <br> <br> <br> </td>
+    <td>31 <br> <br> <br> <br> </td>
     <td> <br> <br> <br> <br> </td>
     <td> <br> <br> <br> <br> </td>
     <td> <br> <br> <br> <br> </td>
   </tr>
 </table>
+
 ## 2020年11月
 <table width="1200" style="text-align:center">
   <tr>
@@ -190,3 +192,22 @@
     <td></td>
   </tr>
 </table>
+
+# Style Settings
+<style>
+    table {
+        border:3;
+        width:1000;
+        border-collapse: collapse;
+        padding：2;
+        border-color:#b6ff00;
+    }
+    td {
+        text-align: left;
+        vertical-align: top;
+    }
+    th {
+        text-align: center;
+        vertical-align: top;
+    }
+</style>
