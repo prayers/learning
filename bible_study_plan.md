@@ -367,7 +367,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
     <td>29<br>         <br>         <br>   </td>
   </tr>
   <tr>
-    <td>30<br>罗马书 2/3/4/5/6/7        <br>创世记        <br>约伯记       </td>
+    <td>30<br>罗马书 2/3/4        <br>创世记        <br>约伯记       </td>
     <td></td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>
   </tr>
 </table>
