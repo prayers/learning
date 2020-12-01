@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td> <br> <br> <br> <br> </td>
-    <td>1 <br> <br> <br> <br> </td>
+    <td>1 <br>磐石晨祷 <br>《撒下》4章 <br>受洗纪念日 <br> </td>
     <td>2 <br> <br> <br> <br> </td>
     <td>3 <br> <br> <br> <br> </td>
     <td>4 <br> <br> <br> <br> </td>
