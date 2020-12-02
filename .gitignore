@@ -1,3 +1,9 @@
 
 *.log
 *.aux
+*.aux
+*.aux
+*.log
+*.log
+bible-latex/bible_content.aux
+bible-latex/bible_content.log
