@@ -21,17 +21,13 @@
 </table>
 
 
-graph LR
-  subgraph g1
-    a1-->b1
-  end
-  subgraph g2
-    a2-->b2
-  end
-  subgraph g3
-    a3-->b3
-  end
-  a3-->a2
+> <!---->
+
+$$
+\frac{e^\pi}{\sum^\inf_{i=0}f(x_i,y_i*\alpha)}\times\beta
+$$
+
+
 
 
 <style>
@@ -48,7 +44,7 @@ graph LR
           font-size: 16px;
           color: #24292e; 
     }
-
+    
     code{
             background-color: rgba(255,31,35,.05);
             border-radius: 3px;
@@ -58,7 +54,5 @@ graph LR
             padding: .2em .4em;
             font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace;
     }
-    pre, blockquote {
-      border: 0;
-    }
+
 </style>
