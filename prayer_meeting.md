@@ -15,8 +15,8 @@
     <td> <br> <br> <br> <br> </td>
     <td>1 <br>磐石晨祷 <br>《撒下》4章 <br>受洗纪念日 <br> </td>
     <td>2 <br>磐石晨祷 <br>《撒下》5章 <br>为子女和父母祷告 <br> </td>
-    <td>3 <br> <br> <br> <br> </td>
-    <td>4 <br> <br> <br> <br> </td>
+    <td>3 <br>磐石晨祷 <br>《撒下》6章 <br> <br> </td>
+    <td>4 <br>磐石晨祷 <br>《撒下》7章 <br> <br> </td>
     <td>5 <br> <br> <br> <br> </td>
     <td>6 <br> <br> <br> <br> </td>
   </tr>
