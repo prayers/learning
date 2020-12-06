@@ -17,8 +17,8 @@
     <td>2 <br>磐石晨祷 <br>《撒下》5章 <br>为子女和父母祷告 <br> </td>
     <td>3 <br>磐石晨祷 <br>《撒下》6章 <br> <br> </td>
     <td>4 <br>磐石晨祷 <br>《撒下》7章 <br> <br> </td>
-    <td>5 <br> <br> <br> <br> </td>
-    <td>6 <br> <br> <br> <br> </td>
+    <td>5 <br>磐石晨祷 <br>《撒下》8章 <br> <br> </td>
+    <td>6 <br>磐石敬拜 <br>圣餐 <br>磐石弟兄团契 <br> </td>
   </tr>
   <tr>
     <td>7 <br> <br> <br> <br> </td>
