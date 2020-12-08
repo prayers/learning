@@ -298,7 +298,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
   </tr>
   <tr>
     <td>7 <br> <br> <br> <br> </td>
-    <td>8 <br> <br> <br> <br> </td>
+    <td>8 <br>罗马书 11<br>创世记32-35 <br>约伯记 38-41 <br> </td>
     <td>9 <br> <br> <br> <br> </td>
     <td>10 <br> <br> <br> <br> </td>
     <td>11 <br> <br> <br> <br> </td>
