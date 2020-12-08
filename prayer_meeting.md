@@ -21,8 +21,8 @@
     <td>6 <br>磐石敬拜 <br>圣餐 <br>磐石弟兄团契 <br> </td>
   </tr>
   <tr>
-    <td>7 <br> <br> <br> <br> </td>
-    <td>8 <br> <br> <br> <br> </td>
+    <td>7 <br>磐石晨祷 <br>信义会门徒训练 5:30 <br> <br> </td>
+    <td>8 <br>磐石晨祷 <br> <br>为配偶祷告 <br> </td>
     <td>9 <br> <br> <br> <br> </td>
     <td>10 <br> <br> <br> <br> </td>
     <td>11 <br> <br> <br> <br> </td>
