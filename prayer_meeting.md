@@ -23,7 +23,7 @@
   <tr>
     <td>7 <br>磐石晨祷 <br>信义会门徒训练 5:30 <br> <br> </td>
     <td>8 <br>磐石晨祷 <br> <br>为配偶祷告 <br> </td>
-    <td>9 <br> <br> <br> <br> </td>
+    <td>9 <br>磐石晨祷 <br> <br> <br> </td>
     <td>10 <br> <br> <br> <br> </td>
     <td>11 <br> <br> <br> <br> </td>
     <td>12 <br> <br> <br> <br> </td>
