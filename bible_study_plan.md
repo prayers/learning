@@ -303,7 +303,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
     <td>10 <br>罗马书 13<br>创世记 37-38<br>诗篇 1-2<br> </td>
     <td>11 <br>罗马书 14<br>创世记 39-42<br>诗篇 3-4<br> </td>
     <td>12 <br> <br> <br> <br> </td>
-    <td>13 <br>罗马书 15<br>创世记 43-45<br> <br> </td>
+    <td>13 <br>罗马书 15<br>创世记 43-45<br> <br>诗篇 5</td>
   </tr>
   <tr>
     <td>14 <br> <br> <br> <br> </td>
