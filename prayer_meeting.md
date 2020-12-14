@@ -26,11 +26,11 @@
     <td>9 <br>磐石晨祷 <br> <br> <br> </td>
     <td>10 <br>磐石晨祷 <br>《撒下》12章 <br>为自己的生命祷告 <br> </td>
     <td>11 <br>磐石晨祷 <br>《撒下》13章 <br>为未信之人的灵魂祷告 <br> </td>
-    <td>12 <br> <br> <br> <br> </td>
+    <td>12 <br>磐石晨祷 <br> <br> <br> </td>
     <td>13 <br> <br> <br> <br> </td>
   </tr>
   <tr>
-    <td>14 <br> <br> <br> <br> </td>
+    <td>14 <br>磐石晨祷 <br>《撒下》15章 <br> <br> </td>
     <td>15 <br> <br> <br> <br> </td>
     <td>16 <br> <br> <br> <br> </td>
     <td>17 <br> <br> <br> <br> </td>
