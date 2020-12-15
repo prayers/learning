@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td>14 <br>磐石晨祷 <br>《撒下》15章 <br> <br> </td>
-    <td>15 <br> <br> <br> <br> </td>
+    <td>15 <br>磐石晨祷 <br> <br> <br> </td>
     <td>16 <br> <br> <br> <br> </td>
     <td>17 <br> <br> <br> <br> </td>
     <td>18 <br> <br> <br> <br> </td>
