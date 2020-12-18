@@ -34,7 +34,7 @@
     <td>15 <br>磐石晨祷 <br> <br> <br> </td>
     <td>16 <br> <br> <br> <br> </td>
     <td>17 <br> <br> <br> <br> </td>
-    <td>18 <br> <br> <br> <br> </td>
+    <td>18 <br>个人晨祷 <br> <br> <br> </td>
     <td>19 <br> <br> <br> <br> </td>
     <td>20 <br> <br> <br> <br> </td>
   </tr>
