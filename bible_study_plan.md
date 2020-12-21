@@ -371,7 +371,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
     <td></td>    <td></td>    <td></td>    <td></td>    <td></td>    <td></td>
   </tr>
 </table>
- 
+
 ## 20xx年xx月
 <table >
   <tr>
