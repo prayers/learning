@@ -315,7 +315,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
     <td>20 <br> <br> <br> <br> </td>
   </tr>
   <tr>
-    <td>21 <br>哥林多前书 <br> <br> <br> </td>
+    <td>21 <br>哥林多前书 5-6<br> <br> <br> </td>
     <td>22 <br> <br> <br> <br> </td>
     <td>23 <br> <br> <br> <br> </td>
     <td>24 <br> <br> <br> <br> </td>
