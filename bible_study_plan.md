@@ -91,25 +91,7 @@ This Bible reading schedule is thematic or connective in nature. The goal is to 
 3. 按经文分类，采用4-stream的方式
 4. 采用固定方式，以读经开始一天的工作
 5. WPS云文档分章word文件方式阅读，做笔记，中英双语，英文使用NKJV
-### 读经顺序
 
-<table>
-<tr>
-    <th>Stream 1</th>
-    <th>Stream 2</th>
-    <th>Stream 3</th>
-</tr>
-<tr>
-    <td><ol><li>普通书信</li><li>保罗书信</li><li>使徒行传</li><li>四福音书</li><li>启示录</li></ol></td>
-    <td><ol><li>律法书</li><li>历史书</li><li>先知书</li></ol></td>
-    <td><ol><li>智慧书</li></ol></td>
-</tr>
-<tr>
-    <td></td>
-    <td></td>
-    <td></td>
-</tr>
-</table>
 
 ## A brief introduction to the Bible
 You will notice in the contents that the Bible is divided into two main sections: the Old Testament and the New Testament. The Old Testament has 39 books. The New Testament has 27 books.  
@@ -275,10 +257,35 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
 + E、属于教牧学性质者——提摩太前后书，提多书，腓利门书，为保罗被释放以后及二次坐监时所为，论到教会行政之道，称为教牧书信。
 
 # Daily Bible Reading
+## 一些说明
+在网上查了很多读经的文章，找到了4-stream方法感觉比较适合我的；我基本采用的是3-stream方法。而且，我在读经的时候，基本是精读，而不是泛读。所以我的一个体会是，精读泛读要结合起来，更能丰富经历神。就好像，福音派强调从悟性层面认识神，灵恩派则从感性层面经历神；两方面都应该有。因此，我决定讲两个方式结合起来，采用“3+1”读经法。脱胎于4-stream方法，3+1读经法更适合我，3-stream精读，1-stream泛读。
+### 读经顺序
+
+<table>
+<tr>
+    <th>Intensive Stream 1</th>
+    <th>Intensive Stream 2</th>
+    <th>Intensive Stream 3</th>
+    <th>Extensive Stream 1</th>
+</tr>
+<tr>
+    <td><ol><li>普通书信</li><li>保罗书信</li><li>使徒行传</li><li>四福音书</li><li>启示录</li></ol></td>
+    <td><ol><li>律法书</li><li>历史书</li><li>先知书</li></ol></td>
+    <td><ol><li>智慧书</li></ol></td>
+    <td><ol><li>新约</li><li>旧约</li></ol></td>
+</tr>
+<tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+</table>
 
 ## 2020年12月
 <table>
   <tr>
+    <th></th>
     <th>Monday</th>
     <th>Tuesday</th>
     <th>Wednesday</th>
@@ -288,6 +295,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
     <th>Sunday</th>
   </tr>
   <tr>
+    <th><br>精读1<br>精读2<br>精读3<br>泛读1 </th>
     <td> <br> <br> <br> <br> </td>
     <td>1 <br>罗马书 5<br>创世记 25 <br>约伯记 29-31<br> </td>
     <td>2 <br>罗马书 6<br>创世记 26 <br>约伯记 32 <br></td>
@@ -297,6 +305,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
     <td>6 <br>罗马书 8-10<br>创世记 28-31 <br>约伯记 34-37 <br> </td>
   </tr>
   <tr>
+    <th><br>精读1<br>精读2<br>精读3<br>泛读1 </th>
     <td>7 <br> <br> <br> <br> </td>
     <td>8 <br>罗马书 11<br>创世记32-35 <br>约伯记 38-41 <br> </td>
     <td>9 <br>罗马书 12<br>创世记 36<br>约伯记 42<br> </td>
@@ -306,6 +315,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
     <td>13 <br>罗马书 15<br>创世记 43-45<br>诗篇 5<br></td>
   </tr>
   <tr>
+    <th><br>精读1<br>精读2<br>精读3<br>泛读1 </th>
     <td>14 <br>罗马书 16<br>创世记 46-49<br> <br> </td>
     <td>15 <br>哥林多前书 1<br>创世记 50<br>诗篇 6-8<br> </td>
     <td>16 <br>[哥林多前书 2]()<br>出埃及记 1<br>诗篇 9-10<br> </td>
@@ -315,6 +325,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
     <td>20 <br> <br> <br> <br> </td>
   </tr>
   <tr>
+    <th><br>精读1<br>精读2<br>精读3<br>泛读1 </th>
     <td>21 <br>哥林多前书 5-6<br> 出埃及记 4-7<br>诗篇 15-16<br> </td>
     <td>22 <br>哥林多前书 7<br>出埃及记 8-11<br>诗篇 17-18<br> </td>
     <td>23 <br> <br> <br> <br> </td>
@@ -324,6 +335,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
     <td>27 <br> <br> <br> <br> </td>
   </tr>
   <tr>
+    <th><br>精读1<br>精读2<br>精读3<br>泛读1 </th>
     <td>28 <br> <br> <br> <br> </td>
     <td>29 <br> <br> <br> <br> </td>
     <td>30 <br> <br> <br> <br> </td>
