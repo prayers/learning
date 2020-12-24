@@ -41,7 +41,7 @@
   <tr>
     <td>21 <br> <br> <br> <br> </td>
     <td>22 <br> <br> <br> <br> </td>
-    <td>23 <br> <br> <br> <br> </td>
+    <td>23 <br> <br> <br> <br>振兴退休会小组聚会</td>
     <td>24 <br> <br> <br> <br> </td>
     <td>25 <br> <br> <br> <br> </td>
     <td>26 <br> <br> <br> <br> </td>

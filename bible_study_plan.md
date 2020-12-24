@@ -329,7 +329,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
     <td>21 <br>哥林多前书 5-6<br> 出埃及记 4-7<br>诗篇 15-16<br> </td>
     <td>22 <br>哥林多前书 7<br>出埃及记 8-11<br>诗篇 17-18<br> </td>
     <td>23 <br>哥林多前书 8-9<br>出埃及记 12-13<br>诗篇 19-21<br> </td>
-    <td>24 <br> <br> <br> <br> </td>
+    <td>24 <br>哥林多前书 10-11<br>出埃及记 14-15<br>诗篇 <br> </td>
     <td>25 <br> <br> <br> <br> </td>
     <td>26 <br> <br> <br> <br> </td>
     <td>27 <br> <br> <br> <br> </td>
