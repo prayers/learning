@@ -45,11 +45,11 @@
     <td>24 <br> <br> <br> <br> </td>
     <td>25 <br> <br> <br> <br> </td>
     <td>26 <br> <br> <br> <br> </td>
-    <td>27 <br> <br> <br> <br> </td>
+    <td>27 <br>晨祷会 <br> <br> <br> </td>
   </tr>
   <tr>
-    <td>28 <br> <br> <br> <br> </td>
-    <td>29 <br> <br> <br> <br> </td>
+    <td>28 <br>晨祷会 <br> <br> <br> </td>
+    <td>29 <br>锡安晨祷会 <br> <br> <br> </td>
     <td>30 <br> <br> <br> <br> </td>
     <td>31 <br> <br> <br> <br> </td>
     <td> <br> <br> <br> <br> </td>
