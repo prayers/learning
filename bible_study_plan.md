@@ -338,7 +338,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
     <th><br>精读1<br>精读2<br>精读3<br>泛读1 </th>
     <td>28 <br> <br> <br> <br> </td>
     <td>29 <br>2 Corinthians 1-3<br>Exodus 19-29<br> <br> </td>
-    <td>30 <br> <br> <br> <br> </td>
+    <td>30 <br>2 Corinthians 4-5<br>Exodus 30-32<br> <br> </td>
     <td>31 <br> <br> <br> <br> </td>
     <td> <br> <br> <br> <br> </td>
     <td> <br> <br> <br> <br> </td>
