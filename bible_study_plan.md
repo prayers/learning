@@ -305,9 +305,9 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
   </tr>
   <tr>
     <th><br>精读1<br>精读2<br>精读3<br>泛读1 </th>
-    <td>4 <br> <br> <br> <br> </td>
-    <td>5 <br> <br> <br> <br> </td>
-    <td>6 <br> <br> <br> <br> </td>
+    <td>4 <br>2 Corinthians 8-10<br>Exodus 35-40<br> <br>Mark </td>
+    <td>5 <br>2 Corinthians 11-13<br>Leviticus 1<br>Psalms 30<br> </td>
+    <td>6 <br>Galatians 1-3<br>Leviticus 2-4<br>Psalms 31<br> </td>
     <td>7 <br> <br> <br> <br> </td>
     <td>8 <br> <br> <br> <br> </td>
     <td>9 <br> <br> <br> <br> </td>
@@ -315,9 +315,9 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
   </tr>
   <tr>
     <th><br>精读1<br>精读2<br>精读3<br>泛读1 </th>
-    <td>11 <br>2 Corinthians 8-10<br>Exodus 35-40<br> <br>Mark </td>
-    <td>12 <br>2 Corinthians 11-13<br>Leviticus 1<br>Psalms <br> </td>
-    <td>13 <br>Galatians <br> <br> <br> </td>
+    <td>11 <br><br><br> <br> </td>
+    <td>12 <br><br><br> <br> </td>
+    <td>13 <br> <br> <br> <br> </td>
     <td>14 <br> <br> <br> <br> </td>
     <td>15 <br> <br> <br> <br> </td>
     <td>16 <br> <br> <br> <br> </td>
