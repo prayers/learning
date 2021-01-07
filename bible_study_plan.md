@@ -308,7 +308,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
     <td>4 <br>2 Corinthians 8-10<br>Exodus 35-40<br> <br>Mark </td>
     <td>5 <br>2 Corinthians 11-13<br>Leviticus 1<br>Psalms 30<br> </td>
     <td>6 <br>Galatians 1-3<br>Leviticus 2-4<br>Psalms 31<br> </td>
-    <td>7 <br> <br> <br> <br> </td>
+    <td>7 <br>Galatians 4-6<br>Leviticus 5-7<br>Psalms 32-33<br> </td>
     <td>8 <br> <br> <br> <br> </td>
     <td>9 <br> <br> <br> <br> </td>
     <td>10 <br> <br> <br> <br> </td>
