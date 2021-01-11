@@ -311,7 +311,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
     <td>7 <br>Galatians 4-6<br>Leviticus 5-7<br>Psalms 32-33<br> </td>
     <td>8 <br>Ephesians 1-2<br>Leviticus 8-10<br>Psalms <br> </td>
     <td>9 <br>Ephesians 3-4<br> <br> <br> </td>
-    <td>10 <br> <br> <br> <br> </td>
+    <td>10 <br>Ephesians 5-6<br> <br> <br> </td>
   </tr>
   <tr>
     <th><br>精读1<br>精读2<br>精读3<br>泛读1 </th>
