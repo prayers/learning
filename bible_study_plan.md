@@ -325,7 +325,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
   </tr>
   <tr>
     <th><br>精读1<br>精读2<br>精读3<br>泛读1 </th>
-    <td>18 <br> <br> <br> <br> </td>
+    <td>18 <br>Philippians 3-4<br>Leviticus 20-27<br> <br> </td>
     <td>19 <br> <br> <br> <br> </td>
     <td>20 <br> <br> <br> <br> </td>
     <td>21 <br> <br> <br> <br> </td>
