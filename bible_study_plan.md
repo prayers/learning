@@ -328,9 +328,9 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
     <td>18 <br>Philippians 3-4<br>Leviticus 20-27<br> <br> </td>
     <td>19 <br>Colossians 1-2<br>Numbers 1-9<br> <br> </td>
     <td>20 <br>Colossians 3-4<br>Numbers 10-15<br>Psalms 34<br> </td>
-    <td>21 <br>1 Thessalonians 1-5<br>Numbers <br> <br> </td>
-    <td>22 <br>2 Thessalonians <br> <br> <br> </td>
-    <td>23 <br> <br> <br> <br> </td>
+    <td>21 <br>1 Thessalonians 1-5<br>Numbers 16-23<br> <br> </td>
+    <td>22 <br>2 Thessalonians 1-3<br>Numbers 24-36<br> <br> </td>
+    <td>23 <br>1 Timothy <br>Deuteronomy <br> <br> </td>
     <td>24 <br> <br> <br> <br> </td>
   </tr>
   <tr>
