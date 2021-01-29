@@ -339,7 +339,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
     <td>26 <br>2 Timothy 1-2<br>Deuteronomy 3-4<br> <br> </td>
     <td>27 <br>2 Timothy 3-4<br>Deuteronomy 5-6<br> <br> </td>
     <td>28 <br>提多书 1-3<br>Deuteronomy 7-10<br> <br> </td>
-    <td>29 <br> <br> <br> <br> </td>
+    <td>29 <br>腓利门书 希伯来书1-2<br>申命记 <br> <br> </td>
     <td>30 <br> <br> <br> <br> </td>
     <td>31 <br> <br> <br> <br> </td>
   </tr>
