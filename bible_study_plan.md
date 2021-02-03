@@ -281,6 +281,63 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
     <td></td>
 </tr>
 </table>
+
+## 2021年02月
+<table>
+  <tr>
+    <th></th>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+    <th>Saturday</th>
+    <th>Sunday</th>
+  </tr>
+  <tr>
+    <th><br>精读1<br>精读2<br>精读3<br>泛读1 </th>
+    <td>1 <br> <br> <br> <br> </td>
+    <td>2 <br>希伯来书 5-6<br>申命记 14-22<br>Psalms 36<br> </td>
+    <td>3 <br>希伯来书 7-10<br>申命记 23-31<br>Psalms <br> </td>
+    <td>4 <br> <br> <br> <br> </td>
+    <td>5 <br> <br> <br> <br> </td>
+    <td>6 <br> <br> <br> <br> </td>
+    <td>7 <br> <br> <br> <br> </td>
+  </tr>
+  <tr>
+    <th><br>精读1<br>精读2<br>精读3<br>泛读1 </th>
+    <td>8 <br> <br> <br> <br> </td>
+    <td>9 <br> <br> <br> <br> </td>
+    <td>10 <br> <br> <br> <br> </td>
+    <td>11 <br> <br> <br> <br> </td>
+    <td>12 <br> <br> <br> <br> </td>
+    <td>13 <br> <br> <br> <br> </td>
+    <td>14 <br> <br> <br> <br> </td>
+  </tr>
+  <tr>
+    <th><br>精读1<br>精读2<br>精读3<br>泛读1 </th>
+    <td>15 <br> <br> <br> <br> </td>
+    <td>16 <br> <br> <br> <br> </td>
+    <td>17 <br> <br> <br> <br> </td>
+    <td>18 <br> <br> <br> <br> </td>
+    <td>19 <br> <br> <br> <br> </td>
+    <td>20 <br> <br> <br> <br> </td>
+    <td>21 <br> <br> <br> <br> </td>
+  </tr>
+  <tr>
+    <th><br>精读1<br>精读2<br>精读3<br>泛读1 </th>
+    <td>22 <br> <br> <br> <br> </td>
+    <td>23 <br> <br> <br> <br> </td>
+    <td>24 <br> <br> <br> <br> </td>
+    <td>25 <br> <br> <br> <br> </td>
+    <td>26 <br> <br> <br> <br> </td>
+    <td>27 <br> <br> <br> <br> </td>
+    <td>28 <br> <br> <br> <br> </td>
+  </tr>
+
+</table> 
+
+
 ## 2021年01月
 <table>
   <tr>
@@ -335,16 +392,15 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
   </tr>
   <tr>
     <th><br>精读1<br>精读2<br>精读3<br>泛读1 </th>
-    <td>25 <br>1 Timothy 1-6<br>Deuteronomy 1-2<br> <br> </td>
+    <td>25 <br>1 Timothy 1-6<br>Deuteronomy 1-2<br>诗篇 35<br> </td>
     <td>26 <br>2 Timothy 1-2<br>Deuteronomy 3-4<br> <br> </td>
     <td>27 <br>2 Timothy 3-4<br>Deuteronomy 5-6<br> <br> </td>
     <td>28 <br>提多书 1-3<br>Deuteronomy 7-10<br> <br> </td>
     <td>29 <br>腓利门书 希伯来书1-2<br>申命记 <br> <br> </td>
-    <td>30 <br> <br> <br> <br> </td>
+    <td>30 <br>希伯来书 3-4<br>申命记 11-13<br> <br> </td>
     <td>31 <br> <br> <br> <br> </td>
   </tr>
-</table>
-
+</table> 
 ## 2020年12月
 <table>
   <tr>
