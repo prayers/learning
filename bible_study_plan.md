@@ -299,8 +299,8 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
     <td>1 <br> <br> <br> <br> </td>
     <td>2 <br>希伯来书 5-6<br>申命记 14-22<br>Psalms 36<br> </td>
     <td>3 <br>希伯来书 7-10<br>申命记 23-31<br>Psalms <br> </td>
-    <td>4 <br> <br> <br> <br> </td>
-    <td>5 <br> <br> <br> <br> </td>
+    <td>4 <br>希伯来书 11-13<br>申命记 <br> <br> </td>
+    <td>5 <br>雅各书 1<br>申命记 32<br> <br> </td>
     <td>6 <br> <br> <br> <br> </td>
     <td>7 <br> <br> <br> <br> </td>
   </tr>
