@@ -307,7 +307,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
   <tr>
     <th><br>精读1<br>精读2<br>精读3<br>泛读1 </th>
     <td>8 <br> <br> <br> <br> </td>
-    <td>9 <br> <br> <br> <br> </td>
+    <td>9 <br>雅各书 3<br>申命记 33<br> <br> </td>
     <td>10 <br> <br> <br> <br> </td>
     <td>11 <br> <br> <br> <br> </td>
     <td>12 <br> <br> <br> <br> </td>
