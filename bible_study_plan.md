@@ -70,28 +70,6 @@ Designed for personal or family reading times, these 25 New Testament readings h
 #### Thematic
 This Bible reading schedule is thematic or connective in nature. The goal is to make as many associations as possible between the different parts of Scripture while still reading individual books of the Bible from start to finish.
 
-## 我的读经计划
-### 精读计划
-主要依托BSF课程
-### 泛读计划
-#### 磐石教会每日晨祷读经
-每天晨祷聚会，都会有读经的计划，并且还有讲解
-#### 个人读经计划
-每日读经的规划
-### 读经的方式
-1. 按圣经顺序
-2. 按其他顺序：按主题等，如保罗书信、四福音书、摩西五经、历史书、大先知书、小先知书等等
-3. 4-stream方式：四部书同时进行
-### 时间安排
-1. 固定的时间
-2. 任意的时间
-### 总结
-1. BSF课程
-2. 磐石晨祷读经
-3. 按经文分类，采用4-stream的方式
-4. 采用固定方式，以读经开始一天的工作
-5. WPS云文档分章word文件方式阅读，做笔记，中英双语，英文使用NKJV
-
 
 ## A brief introduction to the Bible
 You will notice in the contents that the Bible is divided into two main sections: the Old Testament and the New Testament. The Old Testament has 39 books. The New Testament has 27 books.  
@@ -186,6 +164,7 @@ There were also books written by prophets. Prophets were men chosen by God to de
         <th>17卷</th>
     </tr>
 </table>
+
 ### the New Testament
 The New Testament starts out with the Gospel – four books, Matthew, Mark, Luke, and John, named for the men who wrote them. Gospel means “good news.” The Gospel describes the life, death, and resurrection of Jesus Christ. Christ is the Greek word that means the “Messiah,” the servant king looked for by the prophets of the Old Testament.
 
@@ -282,6 +261,283 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
 </tr>
 </table>
 
+## Psalms Classification
+<table>
+	<tr>
+		<td COLSPAN="2" width="100%" bgcolor="#E4E4CB">Lament Psalms</td>
+	</tr>
+	<tr>
+		<td WIDTH="25%">Community</td>
+		<td WIDTH="75%">12, 44, 58, 60, 74, 79, 80, 83, 85, 89*, 90, 94, 123, 126, 129</td>
+	</tr>
+	<tr>
+		<td WIDTH="25%">Individual</td>
+		<td WIDTH="75%">3, 4, 5, 7, 9-10, 13, 14, 17, 22, 25, 26, 27*, 28, 31, 36*, 39, 40:12-17, 41, 42-43, 52*, 53, 54, 55, 56, 57, 59, 61, 64, 70, 71, 77, 86, 89*, 120, 139, 141, 142</td>
+	</tr>
+	<tr>
+		<td COLSPAN="2" width="100%" bgcolor="#E4E4CB">Specialized Lament Psalms</td>
+	</tr>
+	<tr>
+		<td WIDTH="25%">Penitential</td>
+		<td WIDTH="75%">6, 32*, 38, 51, 102, 130, 143</td>
+	</tr>
+	<tr>
+		<td WIDTH="25%">Imprecatory</td>
+		<td WIDTH="75%">35, 69, 83, 88, 109, 137, 140</td>
+	</tr>
+	<tr>
+		<td COLSPAN="2" width="100%" bgcolor="#E4E4CB">Thanksgiving (Todah) Psalms</td>
+	</tr>
+	<tr>
+		<td WIDTH="25%"><b>Community</b></td>
+		<td WIDTH="75%">65*, 67*, 75, 107, 124, 136*</td>
+	</tr>
+	<tr>
+		<td WIDTH="25%"><b>Individual</b></td>
+		<td WIDTH="75%">18, 21, 30, 32*, 34, 40:1-11, 66:13-20, 92, 108*, 116, 118, 138</td>
+	</tr>
+	<tr>
+		<td COLSPAN="2" width="100%" bgcolor="#E4E4CB">Specialized Thanksgiving (Todah) Psalms</td>
+	</tr>
+	<tr>
+		<td WIDTH="25%">Salvation History</td>
+		<td WIDTH="75%">8*, 105-106, 135, 136</td>
+	</tr>
+	<tr>
+		<td WIDTH="25%">Songs of Trust</td>
+		<td WIDTH="75%">11, 16, 23, 27*, 62, 63, 91, 121, 125, 131</td>
+	</tr>
+	<tr>
+		<td COLSPAN="2" width="100%" bgcolor="#E4E4CB">Hymnic Psalms</td>
+	</tr>
+	<tr>
+		<td WIDTH="25%">Hymn and Doxology</td>
+		<td WIDTH="75%">8*, 19:1-6, 33, 66:1-12, 67*, 95, 100, 103, 104, 111, 113, 114, 117, 145, 146, 147, 148, 149, 150</td>
+	</tr>
+	<tr>
+		<td COLSPAN="2" width="100%" bgcolor="#E4E4CB">Liturgical Psalms (for Public Worship)</td>
+	</tr>
+	<tr>
+		<td WIDTH="25%"><b>Covenant Songs</b></td>
+		<td WIDTH="75%">50, 78, 81, 89*, 132</td>
+	</tr>
+	<tr>
+		<td WIDTH="25%"><b>Royal / Enthronement</b></td>
+		<td WIDTH="75%">2, 18, 20, 21, 29, 45, 47, 72, 93, 95*, 96, 97, 98, 99, 101, 110, 144</td>
+	</tr>
+	<tr>
+		<td WIDTH="25%"><b>Songs of Zion</b></td>
+		<td WIDTH="75%">46, 48, 76, 84, 87, 122</td>
+	</tr>
+	<tr>
+		<td WIDTH="25%"><b>Temple Liturgies</b></td>
+		<td WIDTH="75%">15, 24, 68*, 82, 95*, 115, 134</td>
+	</tr>
+	<tr>
+		<td COLSPAN="2" width="100%" bgcolor="#E4E4CB">Community Psalms</td>
+	</tr>
+	<tr>
+		<td WIDTH="25%">Wisdom Psalms</td>
+		<td WIDTH="75%">1*, 36*, 37, 49, 73, 112, 127, 128, 133</td>
+	</tr>
+	<tr>
+		<td WIDTH="25%">Torah Poems</td>
+		<td WIDTH="75%">1*, 19:7-14, 119</td>
+	</tr>
+</table>
+
+### 详细分类
+<table>
+	<tr>
+		<td COLSPAN="2" width="100%" bgcolor="#D3E3CA"><b>REFLECTING THE HUMAN SOUL</b> - in its cry for God</td>
+	</tr>
+	<tr>
+		<td WIDTH="25%">1. Extreme distress</td>
+		<td WIDTH="75%">6; 77; 69</td>
+	</tr>
+	<tr>
+		<td WIDTH="25%">2. Confession of sin</td>
+		<td WIDTH="75%">6; 32; 38; 51; 78; 88; 95; 106; 130</td>
+	</tr>
+	<tr>
+		<td WIDTH="25%">3. Joy of the righteous</td>
+		<td WIDTH="75%">1; 15; 16; 24; 40; 101; 103; 107</td>
+	</tr>
+	<tr>
+		<td WIDTH="25%">4. Thirsting for God</td>
+		<td WIDTH="75%">42; 43; 63</td>
+	</tr>
+	<tr>
+		<td WIDTH="25%">5. Trust and resting in God</td>
+		<td WIDTH="75%">23; 27; 37; 62; 91; 121</td>
+	</tr>
+	<tr>
+		<td WIDTH="25%">6. Praise</td>
+		<td WIDTH="75%">30; 40; 103; 107; 144; 150</td>
+	</tr>
+	<tr>
+		<td WIDTH="25%">7. Prayer</td>
+		<td WIDTH="75%">13; 25; 28; 55; 141; 143</td>
+	</tr>
+	<tr>
+		<td WIDTH="25%">8. When provoked</td>
+		<td WIDTH="75%">35-37; 52; 69; 109; 137</td>
+	</tr>
+	<tr>
+		<td WIDTH="25%">9. Fellowship</td>
+		<td WIDTH="75%">133</td>
+	</tr>
+  <tr>
+    <td COLSPAN="2" width="100%" bgcolor="#D3E3CA"><b>FOCUSED ON JEHOVAH</b> - as God</td>
+  </tr>
+  <tr>
+		<td WIDTH="25%">1. Adoration </td>
+		<td WIDTH="75%">34; 45; 48; 95-100 </td>
+  </tr>
+  <tr>
+		<td WIDTH="25%">2. Praise (Hallelujah) </td>
+		<td WIDTH="75%">107; 111-118; 135; 146-150 </td>
+  </tr>
+  <tr>
+		<td WIDTH="25%">3. Thanksgiving </td>
+		<td WIDTH="75%">30; 75; 92; 103; 105; 136 </td>
+  </tr>
+  <tr>
+		<td WIDTH="25%">4. God as a refuge </td>
+		<td WIDTH="75%">18; 46; 61; 62; 90; 91 </td>
+  </tr>
+  <tr>
+		<td WIDTH="25%">5. Contrasting God with idols </td>
+		<td WIDTH="75%">115; 135; (Atheistic: 14; 53) </td>
+  </tr>
+  <tr>
+		<td WIDTH="25%">6. Petitions （祈求） for help </td>
+		<td WIDTH="75%">3; 4; 12; etc. </td>
+  </tr>
+  <tr>
+		<td WIDTH="25%">7. Practicing God’s presence </td>
+		<td WIDTH="75%">23; 91; 121 </td>
+  </tr>
+  <tr>
+		<td WIDTH="25%">8. God as eternal King </td>
+		<td WIDTH="75%">47; 93; 97; 99 </td>
+  </tr>
+  <tr>
+		<td WIDTH="25%">9. God as a Shepherd </td>
+		<td WIDTH="75%">22; 23; 24 </td>
+  </tr>
+  <tr>
+		<td WIDTH="25%">10.Characteristics of God </td>
+		<td WIDTH="75%">90; 100 </td>
+  </tr>
+  <tr>
+    <td COLSPAN="2" width="100%" bgcolor="#D3E3CA"><b>WITH MESSIANIC OVERTONES（附带意义）</b> - written to express various messianic prophecies</td>
+  </tr>
+  <tr>
+		<td WIDTH="25%">1. Messiah’s humiliation </td>
+		<td WIDTH="25%">22; 31; 41; 63; 69</td>
+  </tr>
+  <tr>
+		<td WIDTH="25%">2. Messiah’s resurrection </td>
+		<td WIDTH="25%">16; 118</td>
+  </tr>
+  <tr>
+		<td WIDTH="25%">3. Messiah’s present priestly ministry </td>
+		<td WIDTH="25%">23</td>
+  </tr>
+  <tr>
+		<td WIDTH="25%">4. Messiah’s coronation （加冕；加冕典礼）</td>
+		<td WIDTH="25%">24; 45; 132</td>
+  </tr>
+  <tr>
+		<td WIDTH="25%">5. Messiah’s kingdom </td>
+		<td WIDTH="25%">72; 89; 93; 145</td>
+  </tr>
+  <tr>
+		<td WIDTH="25%">6. Others </td>
+		<td WIDTH="25%">2; 8; 34; 40; 61; 68; 96-98; 102; 109; 110; </td>
+  </tr>
+  <tr>
+		<td COLSPAN="2" width="100%" bgcolor="#D3E3CA"><b>RECALLING ISRAEL’S HISTORY</b> - depicting outstanding events in Hebrew history</td>
+  </tr>
+  <tr>
+		<td>33; 44; 60; 68; 77-81; 105; 106; 114; 126; 136; 137; 141</td>
+  </tr>
+  <tr>
+		<td COLSPAN="2" width="100%" bgcolor="#D3E3CA"><b>FOR SPECIFIC OCCASIONS</b></td>
+  </tr>
+  <tr>
+		<td WIDTH="25%">1. Celebrate a victory </td>
+		<td WIDTH="25%">9; 20; 21; 60; 61</td>
+  </tr>
+  <tr>
+		<td WIDTH="25%">2. Laying of the temple foundation </td>
+		<td WIDTH="25%">66</td>
+  </tr>
+  <tr>
+		<td WIDTH="25%">3. Pilgrimages（朝圣,朝觐） to Jerusalem for feasts </td>
+		<td WIDTH="25%">122</td>
+  </tr>
+  <tr>
+		<td WIDTH="25%">4. Sung at various feasts </td>
+		<td WIDTH="25%">113-118</td>
+  </tr>
+  <tr>
+		<td COLSPAN="2" width="100%" bgcolor="#D3E3CA"><b>EMPHASIZING GOD’S WORD</b></td>
+  </tr>
+  <tr>
+		<td>19; 119; 138:2</td>
+  </tr>
+  <tr>
+		<td COLSPAN="2" width="100%" bgcolor="#D3E3CA"><b>EMPHASIZING THE SANCTUARY</b></td>
+  </tr>
+  <tr>
+		<td>27; 72; 84; 122;</td>
+  </tr>
+  <tr>
+		<td COLSPAN="2" width="100%" bgcolor="#D3E3CA"><b>FOCUSED ON GOD’S CREATION</b> - describing the wonders of creation</td>
+  </tr>
+  <tr>
+		<td>8; 19; 33; 65; 90; 104; 124</td>
+  </tr>
+  <tr>
+		<td COLSPAN="2" width="100%" bgcolor="#D3E3CA"><b>IMPRECATORY（诅咒的） PSALMS</b> - calling down Divine wrath against the wicked</td>
+  </tr>
+  <tr>
+		<td>35; 58; 59; 69; 83; 109; 137</td>
+  </tr>
+  <tr>
+		<td COLSPAN="2" width="100%" bgcolor="#D3E3CA"><b>HALLEL PSALMS</b> - sung by families on the night of Passover</td>
+  </tr>
+  <tr>
+		<td>113-118</td>
+  </tr>
+  <tr>
+		<td COLSPAN="2" width="100%" bgcolor="#D3E3CA"><b>HALLELUJAH PSALMS</b> - each begins and ends with the word “hallelujah” (praise the Lord)</td>
+  </tr>
+  <tr>
+		<td>146-150</td>
+  </tr>
+  <tr>
+		<td COLSPAN="2" width="100%" bgcolor="#D3E3CA"><b>ON RAGE AND THE PRIDE OF THE WICKED</b></td>
+  </tr>
+  <tr>
+		<td>2; 10; 58; 73; 94</td>
+  </tr>
+  <tr>
+		<td COLSPAN="2" width="100%" bgcolor="#D3E3CA"><b>字母诗 ACCROSTICS</b> - alphabetic</td>
+  </tr>
+  <tr>
+		<td>9; 10; 25; 34; 37; 111; 112; 119; 145</td>
+  </tr>
+  <tr>
+		<td COLSPAN="2" width="100%" bgcolor="#D3E3CA"><b>PSALMS OF DEGREES</b> - thought by some to have been composed by Hezekiah when the shadow of the sundial went back 10 degrees </br><b>Psalms of Ascent</b>— songs used for the pilgrimage to Jerusalem</td>
+  </tr>
+  <tr>
+		<td>120-134</td>
+  </tr>
+</table>
+
 ## 2021年02月
 <table>
   <tr>
@@ -308,11 +564,11 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
     <th><br>精读1<br>精读2<br>精读3<br>泛读1 </th>
     <td>8 <br> <br> <br> <br> </td>
     <td>9 <br>雅各书 2<br>申命记 33<br> <br> </td>
-    <td>10 <br>雅各书 3-5<br>申命记 34<br> <br> </td>
-    <td>11 <br>使徒行传 <br>约书亚记 <br> <br> </td>
-    <td>12 <br> <br> <br> <br> </td>
-    <td>13 <br> <br> <br> <br> </td>
-    <td>14 <br> <br> <br> <br> </td>
+    <td>10 <br>雅各书 3-5<br>申命记 34<br>诗篇 6; 77; 69<br> </td>
+    <td>11 <br>使徒行传 <br>约书亚记 <br>诗篇 6; 77; 69 <br> </td>
+    <td>12 <br>使徒行传 <br>约书亚记 <br>诗篇 6; 77; 69 <br> </td>
+    <td>13 <br>使徒行传 <br>约书亚记 <br>诗篇 6; 77; 69 <br> </td>
+    <td>14 <br>使徒行传 <br>约书亚记 <br>诗篇 6; 77; 69 <br> </td>
   </tr>
   <tr>
     <th><br>精读1<br>精读2<br>精读3<br>泛读1 </th>
