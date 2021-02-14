@@ -566,9 +566,9 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
     <td>9 <br>雅各书 2<br>申命记 33<br> <br> </td>
     <td>10 <br>雅各书 3-5<br>申命记 34<br>诗篇 6; 77; 69<br> </td>
     <td>11 <br>使徒行传 <br>约书亚记 <br>诗篇 6; 77; 69 <br> </td>
-    <td>12 <br>使徒行传 <br>约书亚记 <br>诗篇 6; 77; 69 <br> </td>
-    <td>13 <br>使徒行传 <br>约书亚记 <br>诗篇 6; 77; 69 <br> </td>
-    <td>14 <br>使徒行传 <br>约书亚记 <br>诗篇 6; 77; 69 <br> </td>
+    <td>12 <br>使徒行传 1-2<br>约书亚记 1-2<br>诗篇 6; 77; 69 <br> </td>
+    <td>13 <br>使徒行传 3-5<br>约书亚记 <br>诗篇 6; 77; 69 <br> </td>
+    <td>14 <br>使徒行传 6-8<br>约书亚记 3-8<br>诗篇 6; 77; 69 <br> </td>
   </tr>
   <tr>
     <th><br>精读1<br>精读2<br>精读3<br>泛读1 </th>
