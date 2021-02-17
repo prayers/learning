@@ -574,7 +574,7 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
     <th><br>精读1<br>精读2<br>精读3<br>泛读1 </th>
     <td>15 <br>使徒行传 9-13<br>约书亚记 9-21<br>Extreme distress <br> </td>
     <td>16 <br>使徒行传 14-17<br>约书亚记 22-24<br>6; 32; <br> </td>
-    <td>17 <br> <br> <br>38; 51;<br> </td>
+    <td>17 <br>使徒行传18-24 <br>士师记 1-3:6<br>38; 51;<br> </td>
     <td>18 <br> <br> <br>78; 88;<br> </td>
     <td>19 <br> <br> <br>95; 106;<br> </td>
     <td>20 <br> <br> <br>130 <br> </td>
