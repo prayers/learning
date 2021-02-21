@@ -576,9 +576,9 @@ The next book in the New Testament, Acts, describes the acts of Jesus’ followe
     <td>16 <br>使徒行传 14-17<br>约书亚记 22-24<br>6; 32; <br> </td>
     <td>17 <br>使徒行传 18-24 <br>士师记 1-3:6<br>38; 51;<br> </td>
     <td>18 <br>使徒行传 25-28<br>士师记 3-8 <br>78; 88;<br> </td>
-    <td>19 <br>马太福音 <br> <br>95; 106;<br> </td>
-    <td>20 <br> <br> <br>130 <br> </td>
-    <td>21 <br> <br> <br> <br> </td>
+    <td>19 <br>马太福音 <br>士师记 9-21<br>95; 106;<br> </td>
+    <td>20 <br> <br>路得记 1-4<br>130 <br> </td>
+    <td>21 <br> <br>撒母耳记 1-4<br> <br> </td>
   </tr>
   <tr>
     <th><br>精读1<br>精读2<br>精读3<br>泛读1 </th>
