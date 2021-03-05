@@ -16,7 +16,7 @@
     <td>2 <br> <br> <br> <br> </td>
     <td>3 <br>撒上 4-31 <br> <br> <br> </td>
     <td>4 <br>撒下 1-6<br>四福音书 <br> <br> </td>
-    <td>5 <br>撒下 <br> <br> <br> </td>
+    <td>5 <br>撒下 7-9<br> <br> <br> </td>
     <td>6 <br> <br> <br> <br> </td>
     <td>7 <br> <br> <br> <br> </td>
   </tr>
