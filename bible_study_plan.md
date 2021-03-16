@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <th><br>精读1<br>精读2<br>精读3<br>泛读1 </th>
-    <td>15 <br> <br> <br> <br> </td>
+    <td>15 <br>撒下 10-13<br> <br> <br> </td>
     <td>16 <br> <br> <br> <br> </td>
     <td>17 <br> <br> <br> <br> </td>
     <td>18 <br> <br> <br> <br> </td>
