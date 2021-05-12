@@ -16,7 +16,7 @@
     <td> <br> <br> <br> <br> </td>
     <td> <br> <br> <br> <br> </td>
     <td> <br> <br> <br> <br> </td>
-    <td>以赛亚书<br>启示录 <br> <br> <br> </td>
+    <td>以赛亚书<br>启示录 <br>耶利米书<br> <br> </td>
     <td> <br> <br> <br> <br> </td>
   </tr>
   <tr>
