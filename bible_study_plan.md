@@ -16,8 +16,8 @@
     <td> <br> <br> <br> <br> </td>
     <td> <br> <br> <br> <br> </td>
     <td> <br> <br> <br> <br> </td>
-    <td>以赛亚书<br>启示录 <br>耶利米书<br> <br> </td>
-    <td> <br> <br> <br> <br> </td>
+    <td>以赛亚书<br>启示录 <br>耶利米书<br>耶利米哀歌 <br> </td>
+    <td>以西结书<br>但以理书<br>何西阿书<br>约珥书<br> </td>
   </tr>
   <tr>
     <th></th>
