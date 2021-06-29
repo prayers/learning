@@ -96,6 +96,22 @@ How great Thou art
 How great Thou art
 何等伟大！
 
+# 想起你 ：盛晓玫 
+lyrics & music: Amy Sand
+心情低落的时候 想起祢的温柔
+祢那看不见的手 安慰我
+风风雨雨的天空 盼望看见彩虹
+是祢恩典的承诺
+
+每当想起祢 想起祢会帮助我
+还有什么困难不能渡过
+想起祢 我的心不再忧愁
+生命窄路有祢陪我
+
+心情起起又落落 好像潮起潮落
+祢的慈爱众水不能淹没
+听祢慈声对我说 一生不离开我
+给我恩典的承诺     
 # Nearer, my God, to Thee, Near to Thee,
 Nearer, my God, to Thee, nearer to Thee!
 愿与我主相亲 与主相近
