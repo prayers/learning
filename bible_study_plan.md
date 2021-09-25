@@ -32,7 +32,7 @@
     <th>精读1<br>精读2<br>精读3<br>精读4<br>泛读</th>
     <td> <br> <br> <br> <br> </td>
     <td> <br> <br> <br> <br> </td>
-    <td>马太福音 <br> <br> <br> <br> </td>
+    <td>马太福音 <br>彼得前后书<br>约翰一二三书<br> <br> </td>
     <td> <br> <br> <br> <br> </td>
     <td> <br> <br> <br> <br> </td>
     <td><br> <br> <br> <br> </td>
