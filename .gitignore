@@ -13,3 +13,6 @@ bible-latex/latex-template.synctex.gz
 bible-latex/latex-template.pdf
 bible-latex/bible_content.synctex.gz
 bible-latex/bible_content.pdf
+pages/contents.md
+logseq/config.edn
+logseq/custom.css
