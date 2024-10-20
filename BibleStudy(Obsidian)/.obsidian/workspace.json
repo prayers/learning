@@ -11,12 +11,8 @@
             "id": "1cd4dd08dbf4635b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "神学院课程/resources/《21世纪旧约导论》.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -28,24 +24,6 @@
                 "file": "BSF和信义会查经/BSF.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "84a69c061e5d6f75",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fcd5c5b0b9720e86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "神学院课程/resources/《21世纪旧约导论》.md",
-                "mode": "preview",
-                "source": true
               }
             }
           }
@@ -115,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "神学院课程/resources/《21世纪旧约导论》.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "神学院课程/resources/《21世纪旧约导论》.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "神学院课程/resources/《21世纪旧约导论》.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -178,8 +152,8 @@
   },
   "active": "1cd4dd08dbf4635b",
   "lastOpenFiles": [
-    "神学院课程/resources/《圣经以色列史》.md",
     "神学院课程/resources/《21世纪旧约导论》.md",
+    "神学院课程/resources/《圣经以色列史》.md",
     "Pasted image 20241011202511.png",
     "神学院课程/classes/旧约导论.md",
     "神学院课程/resources/Pasted image 20241011194756.png",
