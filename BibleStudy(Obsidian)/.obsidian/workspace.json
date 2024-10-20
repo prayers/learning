@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "1d52c8feec5693c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "477166cbfae4e4b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cd4dd08dbf4635b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "神学院课程/resources/《21世纪旧约导论》.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2e244c470236cafe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BSF和信义会查经/BSF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "84a69c061e5d6f75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcd5c5b0b9720e86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "神学院课程/resources/《21世纪旧约导论》.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91b7f93b72255a5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8826a93174d5e93d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dc95d6533b9d7e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93fba3b86476b517",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "156b77171507da58",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 201.50790786743164
+  },
+  "right": {
+    "id": "c302f5855fa4c3a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf3ea1a41afe3194",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f5f5e3b21b72975",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "神学院课程/resources/《21世纪旧约导论》.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bde2d95edccb9356",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "神学院课程/resources/《21世纪旧约导论》.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7615a4bce324822c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bd6474d99c1fab4f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "神学院课程/resources/《21世纪旧约导论》.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "1cd4dd08dbf4635b",
+  "lastOpenFiles": [
+    "神学院课程/resources/《圣经以色列史》.md",
+    "神学院课程/resources/《21世纪旧约导论》.md",
+    "Pasted image 20241011202511.png",
+    "神学院课程/classes/旧约导论.md",
+    "神学院课程/resources/Pasted image 20241011194756.png",
+    "Pasted image 20241011194654.png",
+    "神学院课程/神学院课程.md",
+    "信仰生活分类与汇总.canvas",
+    "BSF和信义会查经/BSF.md",
+    "BSF和信义会查经/BSF和信义会查经.md",
+    "BSF和信义会查经/信义会查经.md",
+    "BSF和信义会查经",
+    "圣经/圣经（多版本）.md",
+    "圣经/圣经(吕振中译本)/吕振中译本圣经.md",
+    "神学院课程/classes/专文写作课.md",
+    "神学院课程/classes/中国文化与宣教课.md",
+    "神学院课程/classes/灵修课.md",
+    "圣经/Bible Study Kit (v1)/BibleGateway-to-Obsidian Script.md",
+    "圣经/Bible Study Kit (v1)/Bible Study Kit (Overview).md",
+    "圣经/圣经(DB输出)/圣经（DB输出）.md",
+    "圣经/Bible Study Kit (v1)/The Bible (WEB).md",
+    "圣经/Bible Study Kit (v1)/010 Faith MOC.md",
+    "圣经/Bible Study Kit (v1)/000 Home.md",
+    "圣经/Bible Study Kit (v1)/+Start here.md",
+    "圣经/圣经(吕振中译本)/lzz/090/031.md",
+    "圣经/圣经(吕振中译本)/README.md",
+    "圣经/圣经(和合本修订版)/旧约/02 出埃及记.md",
+    "圣经/圣经(和合本修订版)/和合本修订版.md",
+    "圣经/圣经(和合本修订版)/旧约/01 创世记.md",
+    "圣经/圣经(和合本)/中英双语NIV版圣经.md",
+    "圣经/圣经(DB输出)",
+    "圣经/新建文件夹",
+    "readingBibleMDB(python)/bible_markdown",
+    "readingBibleMDB(python)/readingDB-显示测试.py",
+    "readingBibleMDB(python)/~$bible_data.xlsx",
+    "readingBibleMDB(python)/bible_data.xlsx",
+    "readingBibleMDB(python)/readingDB-xsl2.py",
+    "readingBibleMDB(python)/readingDB-xsl.py",
+    "神学院课程/others",
+    "圣经/圣经(吕振中译本)/cover.jpg"
+  ]
+}

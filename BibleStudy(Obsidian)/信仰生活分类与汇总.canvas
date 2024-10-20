@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"34d3e23f6740dc23","type":"text","text":"总览","x":-540,"y":-360,"width":250,"height":60},
+		{"id":"a8758d8d32d4f87b","type":"text","text":"[[神学院课程]]","x":-540,"y":-128,"width":250,"height":60},
+		{"id":"d13f65282d6cc400","type":"text","text":"[[BSF和信义会查经]]","x":-220,"y":-128,"width":250,"height":60},
+		{"id":"1c41723ccb470c9a","type":"text","text":"[[圣经（多版本）]]","x":-860,"y":-128,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"6452d3681ae7a29a","fromNode":"34d3e23f6740dc23","fromSide":"bottom","toNode":"1c41723ccb470c9a","toSide":"top"},
+		{"id":"8771b0a134ebf91e","fromNode":"34d3e23f6740dc23","fromSide":"bottom","toNode":"a8758d8d32d4f87b","toSide":"top"},
+		{"id":"4e804cddb3aa8b56","fromNode":"34d3e23f6740dc23","fromSide":"bottom","toNode":"d13f65282d6cc400","toSide":"top"}
+	]
+}
