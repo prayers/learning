@@ -11,8 +11,12 @@
             "id": "1cd4dd08dbf4635b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "神学院课程/classes/中国文化与宣教课.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "神学院课程/classes/中国文化与宣教课.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "神学院课程/classes/中国文化与宣教课.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "神学院课程/classes/中国文化与宣教课.md"
+              }
             }
           }
         ]
@@ -142,23 +150,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "1cd4dd08dbf4635b",
   "lastOpenFiles": [
+    "神学院课程/神学院课程.md",
     "神学院课程/resources/《21世纪旧约导论》.md",
     "神学院课程/resources/《圣经以色列史》.md",
     "Pasted image 20241011202511.png",
     "神学院课程/classes/旧约导论.md",
     "神学院课程/resources/Pasted image 20241011194756.png",
     "Pasted image 20241011194654.png",
-    "神学院课程/神学院课程.md",
     "信仰生活分类与汇总.canvas",
     "BSF和信义会查经/BSF.md",
     "BSF和信义会查经/BSF和信义会查经.md",
