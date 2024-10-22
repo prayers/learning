@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "477166cbfae4e4b6",
+        "id": "470a24647d1d5b03",
         "type": "tabs",
         "children": [
           {
-            "id": "1cd4dd08dbf4635b",
+            "id": "59ee60232daa5c6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "神学院课程/classes/中国文化与宣教课.md",
+                "file": "神学院课程/resources/《21世纪旧约导论》.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "2e244c470236cafe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BSF和信义会查经/BSF.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "《21世纪旧约导论》"
             }
           }
         ]
@@ -51,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -66,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -74,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -97,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "神学院课程/classes/中国文化与宣教课.md",
+                "file": "神学院课程/resources/《21世纪旧约导论》.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "《21世纪旧约导论》 的反向链接列表"
             }
           },
           {
@@ -114,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "神学院课程/classes/中国文化与宣教课.md",
+                "file": "神学院课程/resources/《21世纪旧约导论》.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "《21世纪旧约导论》 的出链列表"
             }
           },
           {
@@ -128,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -137,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "神学院课程/classes/中国文化与宣教课.md"
-              }
+                "file": "神学院课程/resources/《21世纪旧约导论》.md"
+              },
+              "icon": "lucide-list",
+              "title": "《21世纪旧约导论》 的大纲"
             }
           }
         ]
@@ -150,33 +154,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "1cd4dd08dbf4635b",
+  "active": "59ee60232daa5c6a",
   "lastOpenFiles": [
-    "神学院课程/神学院课程.md",
-    "神学院课程/resources/《21世纪旧约导论》.md",
     "神学院课程/resources/《圣经以色列史》.md",
-    "Pasted image 20241011202511.png",
     "神学院课程/classes/旧约导论.md",
+    "神学院课程/神学院课程.md",
+    "神学院课程/classes/灵修课.md",
+    "神学院课程/classes/专文写作课.md",
+    "BSF和信义会查经/BSF.md",
+    "神学院课程/classes/中国文化与宣教课.md",
+    "神学院课程/resources/《21世纪旧约导论》.md",
+    "Pasted image 20241011202511.png",
     "神学院课程/resources/Pasted image 20241011194756.png",
     "Pasted image 20241011194654.png",
     "信仰生活分类与汇总.canvas",
-    "BSF和信义会查经/BSF.md",
     "BSF和信义会查经/BSF和信义会查经.md",
     "BSF和信义会查经/信义会查经.md",
     "BSF和信义会查经",
     "圣经/圣经（多版本）.md",
     "圣经/圣经(吕振中译本)/吕振中译本圣经.md",
-    "神学院课程/classes/专文写作课.md",
-    "神学院课程/classes/中国文化与宣教课.md",
-    "神学院课程/classes/灵修课.md",
     "圣经/Bible Study Kit (v1)/BibleGateway-to-Obsidian Script.md",
     "圣经/Bible Study Kit (v1)/Bible Study Kit (Overview).md",
     "圣经/圣经(DB输出)/圣经（DB输出）.md",
