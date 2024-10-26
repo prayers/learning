@@ -1,8 +1,10 @@
 \documentclass[12pt, a4paper]{ctexart}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%    包库引用   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage{setspace}%调整行距
-\usepackage{fancyhdr}
-
+\usepackage{geometry}%调整页边距
+\usepackage{titletoc} % 设置目录格式
+\usepackage{titlesec} % 设置标题格式
+\usepackage{fancyhdr} % 设置页眉页脚
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%设置中文标题编号%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % 设置中文标号
 \CTEXsetup[name={,、},number={\chinese{section}},format={\centering\zihao{-4}},beforeskip={24bp},afterskip={18bp}]{section} % 一、
@@ -15,8 +17,9 @@
 \fancyhead{} % 右奇、左偶页页眉显示页码
 \renewcommand{\headrulewidth}{0pt} % 设置页眉横线宽度为0
 \fancyfoot[C]{\thepage} % 所有页的页脚中心显示页码
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%   调整行距   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%     调整     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %\onehalfspacing
+\geometry{left=1.5cm,right=1.5cm,top=2.5cm,bottom=2.5cm} % 调整页边距
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%   基本信息   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \title{《圣经以色列史》7-12章阅读报告}
 \newcommand{\classname}{旧约导论}
@@ -30,6 +33,17 @@
 %----------------目录--------------------------------------------------
 \pagenumbering{roman}
 \tableofcontents
+\titlecontents{section}[2em]{\songti}
+{\contentslabel{2.5em}}{\hspace{-2.5em}}
+{\titlerule*[0.5pt]{\hspace{-2.5em}}\thecontentspage}
+
+\titlecontents{subsection}[4em]{\songti}
+{\contentslabel{2.5em}}{\hspace{-2.5em}}
+{\titlerule*[0.5pt]{\hspace{-2.5em}}\thecontentspage}
+
+\titlecontents{subsubsection}[5em]{\songti}
+{\contentslabel{1em}}{\hspace{-2.5em}}
+{\titlerule*[0.5pt]{\hspace{-2.5em}}\thecontentspage}
 \newpage
 %----------------页码计数----------------------------------------------
 \pagenumbering{arabic}
