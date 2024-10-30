@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "470a24647d1d5b03",
+        "id": "77d1eafedf1776d9",
         "type": "tabs",
         "children": [
           {
-            "id": "59ee60232daa5c6a",
+            "id": "818483349283d767",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "神学院课程/resources/《圣经以色列史》.md",
+                "file": "神学院课程/classes/中国文化与宣教课.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "《圣经以色列史》"
+              "title": "中国文化与宣教课"
+            }
+          },
+          {
+            "id": "b55ce0b6002fbb7d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -43,7 +56,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -60,7 +73,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
@@ -70,7 +83,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "书签"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "神学院课程/resources/《21世纪旧约导论》.md",
+                "file": "神学院课程/classes/中国文化与宣教课.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "《21世纪旧约导论》 的反向链接列表"
+              "title": "Backlinks for 中国文化与宣教课"
             }
           },
           {
@@ -112,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "神学院课程/resources/《21世纪旧约导论》.md",
+                "file": "神学院课程/classes/中国文化与宣教课.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "《21世纪旧约导论》 的出链列表"
+              "title": "Outgoing links from 中国文化与宣教课"
             }
           },
           {
@@ -130,7 +143,7 @@
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
-              "title": "标签"
+              "title": "Tags"
             }
           },
           {
@@ -139,10 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "神学院课程/resources/《21世纪旧约导论》.md"
+                "file": "神学院课程/classes/中国文化与宣教课.md"
               },
               "icon": "lucide-list",
-              "title": "《21世纪旧约导论》 的大纲"
+              "title": "Outline of 中国文化与宣教课"
             }
           }
         ]
@@ -154,20 +167,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "59ee60232daa5c6a",
+  "active": "b55ce0b6002fbb7d",
   "lastOpenFiles": [
-    "神学院课程/resources/《21世纪旧约导论》.md",
-    "神学院课程/resources/《圣经以色列史》.md",
-    "神学院课程/classes/旧约导论.md",
     "神学院课程/神学院课程.md",
+    "神学院课程/resources/《圣经以色列史》.md",
+    "神学院课程/resources/《21世纪旧约导论》.md",
+    "神学院课程/classes/旧约导论.md",
     "神学院课程/classes/灵修课.md",
     "神学院课程/classes/专文写作课.md",
     "BSF和信义会查经/BSF.md",
