@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "神学院课程/classes/中国文化与宣教课.md",
+                "file": "神学院课程/classes/专文写作课.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "中国文化与宣教课"
-            }
-          },
-          {
-            "id": "b55ce0b6002fbb7d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "专文写作课"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,7 +43,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -167,16 +154,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "b55ce0b6002fbb7d",
+  "active": "818483349283d767",
   "lastOpenFiles": [
+    "神学院课程/classes/中国文化与宣教课.md",
     "神学院课程/神学院课程.md",
     "神学院课程/resources/《圣经以色列史》.md",
     "神学院课程/resources/《21世纪旧约导论》.md",
@@ -184,7 +172,6 @@
     "神学院课程/classes/灵修课.md",
     "神学院课程/classes/专文写作课.md",
     "BSF和信义会查经/BSF.md",
-    "神学院课程/classes/中国文化与宣教课.md",
     "Pasted image 20241011202511.png",
     "神学院课程/resources/Pasted image 20241011194756.png",
     "Pasted image 20241011194654.png",
